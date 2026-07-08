@@ -1,0 +1,7226 @@
+{
+ "version": 1,
+ "books": [
+  {
+   "id": "essential-150",
+   "emoji": "📕",
+   "name": {
+    "ru": "150 основных рецептов",
+    "en": "The Essential 150"
+   },
+   "desc": {
+    "ru": "Самые ходовые блюда: завтраки, супы, курица, мясо, рыба, паста, гарниры, салаты и десерты — из простых продуктов",
+    "en": "Everyday favourites: breakfasts, soups, chicken, meat, fish, pasta, sides, salads and desserts — from simple ingredients"
+   }
+  }
+ ],
+ "recipes": [
+  {
+   "id": "e150-001",
+   "book": "essential-150",
+   "name": {
+    "ru": "Омлет классический",
+    "en": "Classic omelette"
+   },
+   "servings": 2,
+   "cook_time_min": 10,
+   "calories": 320,
+   "protein_g": 20,
+   "fat_g": 24,
+   "carbs_g": 4,
+   "ingredients": [
+    {
+     "name": "Eggs",
+     "qty": 4,
+     "unit": "шт"
+    },
+    {
+     "name": "Milk",
+     "qty": 60,
+     "unit": "мл"
+    },
+    {
+     "name": "Butter",
+     "qty": 15,
+     "unit": "г"
+    },
+    {
+     "name": "Salt",
+     "qty": 1,
+     "unit": "щеп"
+    }
+   ],
+   "steps": [
+    "Взбейте яйца с молоком и солью вилкой до однородности.",
+    "Растопите масло на сковороде на среднем огне.",
+    "Вылейте смесь и жарьте под крышкой 5–6 минут, не перемешивая."
+   ],
+   "tips": [
+    "Не открывайте крышку до готовности — омлет останется пышным."
+   ]
+  },
+  {
+   "id": "e150-002",
+   "book": "essential-150",
+   "name": {
+    "ru": "Яичница-глазунья с беконом",
+    "en": "Bacon and eggs"
+   },
+   "servings": 2,
+   "cook_time_min": 10,
+   "calories": 420,
+   "protein_g": 22,
+   "fat_g": 36,
+   "carbs_g": 2,
+   "ingredients": [
+    {
+     "name": "Eggs",
+     "qty": 4,
+     "unit": "шт"
+    },
+    {
+     "name": "Bacon",
+     "qty": 80,
+     "unit": "г"
+    },
+    {
+     "name": "Butter",
+     "qty": 10,
+     "unit": "г"
+    }
+   ],
+   "steps": [
+    "Обжарьте бекон до хруста, отложите.",
+    "На вытопившемся жире с маслом пожарьте яйца 3–4 минуты.",
+    "Посолите, подавайте с беконом."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-003",
+   "book": "essential-150",
+   "name": {
+    "ru": "Сырники",
+    "en": "Cottage cheese pancakes (syrniki)"
+   },
+   "servings": 3,
+   "cook_time_min": 25,
+   "calories": 340,
+   "protein_g": 22,
+   "fat_g": 14,
+   "carbs_g": 30,
+   "ingredients": [
+    {
+     "name": "Cottage Cheese",
+     "qty": 400,
+     "unit": "г"
+    },
+    {
+     "name": "Eggs",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Flour",
+     "qty": 60,
+     "unit": "г"
+    },
+    {
+     "name": "Sugar",
+     "qty": 30,
+     "unit": "г"
+    },
+    {
+     "name": "Butter",
+     "qty": 20,
+     "unit": "г"
+    }
+   ],
+   "steps": [
+    "Разомните творог с яйцом и сахаром, вмешайте муку.",
+    "Сформируйте шайбы, обваляйте в муке.",
+    "Жарьте на масле по 3 минуты с каждой стороны до румяности."
+   ],
+   "tips": [
+    "Подавайте со сметаной или мёдом."
+   ]
+  },
+  {
+   "id": "e150-004",
+   "book": "essential-150",
+   "name": {
+    "ru": "Овсяная каша с бананом",
+    "en": "Banana oatmeal"
+   },
+   "servings": 2,
+   "cook_time_min": 10,
+   "calories": 310,
+   "protein_g": 9,
+   "fat_g": 7,
+   "carbs_g": 55,
+   "ingredients": [
+    {
+     "name": "Oats",
+     "qty": 100,
+     "unit": "г"
+    },
+    {
+     "name": "Milk",
+     "qty": 400,
+     "unit": "мл"
+    },
+    {
+     "name": "Banana",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Honey",
+     "qty": 1,
+     "unit": "ст.л"
+    }
+   ],
+   "steps": [
+    "Доведите молоко до кипения, всыпьте хлопья.",
+    "Варите 5 минут, помешивая.",
+    "Подавайте с кружками банана и мёдом."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-005",
+   "book": "essential-150",
+   "name": {
+    "ru": "Оладьи пышные",
+    "en": "Fluffy pancakes (oladyi)"
+   },
+   "servings": 3,
+   "cook_time_min": 25,
+   "calories": 380,
+   "protein_g": 10,
+   "fat_g": 12,
+   "carbs_g": 58,
+   "ingredients": [
+    {
+     "name": "Flour",
+     "qty": 250,
+     "unit": "г"
+    },
+    {
+     "name": "Milk",
+     "qty": 250,
+     "unit": "мл"
+    },
+    {
+     "name": "Eggs",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Sugar",
+     "qty": 40,
+     "unit": "г"
+    },
+    {
+     "name": "Butter",
+     "qty": 20,
+     "unit": "г"
+    }
+   ],
+   "steps": [
+    "Смешайте муку, сахар и щепотку соли; влейте молоко с яйцом, замесите густое тесто.",
+    "Дайте постоять 10 минут.",
+    "Жарьте ложкой на масле по 2–3 минуты с каждой стороны."
+   ],
+   "tips": [
+    "Тесто не перемешивайте после расстойки — оладьи будут пышнее."
+   ]
+  },
+  {
+   "id": "e150-006",
+   "book": "essential-150",
+   "name": {
+    "ru": "Блины тонкие",
+    "en": "Thin crepes (blini)"
+   },
+   "servings": 4,
+   "cook_time_min": 30,
+   "calories": 320,
+   "protein_g": 11,
+   "fat_g": 12,
+   "carbs_g": 42,
+   "ingredients": [
+    {
+     "name": "Flour",
+     "qty": 200,
+     "unit": "г"
+    },
+    {
+     "name": "Milk",
+     "qty": 500,
+     "unit": "мл"
+    },
+    {
+     "name": "Eggs",
+     "qty": 2,
+     "unit": "шт"
+    },
+    {
+     "name": "Sugar",
+     "qty": 25,
+     "unit": "г"
+    },
+    {
+     "name": "Butter",
+     "qty": 30,
+     "unit": "г"
+    }
+   ],
+   "steps": [
+    "Взбейте яйца с сахаром и солью, влейте молоко, всыпьте муку — тесто как жидкая сметана.",
+    "Жарьте на смазанной сковороде по 1 минуте с каждой стороны.",
+    "Смазывайте готовые блины маслом."
+   ],
+   "tips": [
+    "Первый блин задаёт температуру — не спешите."
+   ]
+  },
+  {
+   "id": "e150-007",
+   "book": "essential-150",
+   "name": {
+    "ru": "Французские тосты",
+    "en": "French toast"
+   },
+   "servings": 2,
+   "cook_time_min": 15,
+   "calories": 390,
+   "protein_g": 14,
+   "fat_g": 16,
+   "carbs_g": 48,
+   "ingredients": [
+    {
+     "name": "Bread",
+     "qty": 4,
+     "unit": "ломт"
+    },
+    {
+     "name": "Eggs",
+     "qty": 2,
+     "unit": "шт"
+    },
+    {
+     "name": "Milk",
+     "qty": 100,
+     "unit": "мл"
+    },
+    {
+     "name": "Butter",
+     "qty": 20,
+     "unit": "г"
+    },
+    {
+     "name": "Sugar",
+     "qty": 15,
+     "unit": "г"
+    }
+   ],
+   "steps": [
+    "Взбейте яйца с молоком и сахаром.",
+    "Обмакните ломтики хлеба с двух сторон.",
+    "Обжарьте на масле до золотистой корочки."
+   ],
+   "tips": [
+    "Хорош вчерашний хлеб — он лучше держит форму."
+   ]
+  },
+  {
+   "id": "e150-008",
+   "book": "essential-150",
+   "name": {
+    "ru": "Шакшука",
+    "en": "Shakshuka"
+   },
+   "servings": 2,
+   "cook_time_min": 25,
+   "calories": 360,
+   "protein_g": 18,
+   "fat_g": 24,
+   "carbs_g": 16,
+   "ingredients": [
+    {
+     "name": "Eggs",
+     "qty": 4,
+     "unit": "шт"
+    },
+    {
+     "name": "Tomato",
+     "qty": 4,
+     "unit": "шт"
+    },
+    {
+     "name": "Bell Pepper",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Onion",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Garlic",
+     "qty": 2,
+     "unit": "шт"
+    },
+    {
+     "name": "Olive Oil",
+     "qty": 2,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Paprika",
+     "qty": 1,
+     "unit": "ч.л"
+    }
+   ],
+   "steps": [
+    "Обжарьте лук и перец на масле 5 минут, добавьте чеснок и паприку.",
+    "Добавьте нарезанные помидоры, тушите 10 минут до соуса.",
+    "Сделайте лунки, разбейте яйца, готовьте под крышкой 5–7 минут."
+   ],
+   "tips": [
+    "Подавайте прямо в сковороде с хлебом."
+   ]
+  },
+  {
+   "id": "e150-009",
+   "book": "essential-150",
+   "name": {
+    "ru": "Тост с авокадо и яйцом",
+    "en": "Avocado toast with egg"
+   },
+   "servings": 2,
+   "cook_time_min": 12,
+   "calories": 380,
+   "protein_g": 14,
+   "fat_g": 24,
+   "carbs_g": 28,
+   "ingredients": [
+    {
+     "name": "Bread",
+     "qty": 2,
+     "unit": "ломт"
+    },
+    {
+     "name": "Avocado",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Eggs",
+     "qty": 2,
+     "unit": "шт"
+    },
+    {
+     "name": "Lemon",
+     "qty": 0.5,
+     "unit": "шт"
+    }
+   ],
+   "steps": [
+    "Подсушите хлеб на сухой сковороде или в тостере.",
+    "Разомните авокадо с лимонным соком и солью, намажьте на тосты.",
+    "Сверху — яйцо пашот или глазунья."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-010",
+   "book": "essential-150",
+   "name": {
+    "ru": "Творог с ягодами и мёдом",
+    "en": "Cottage cheese with berries"
+   },
+   "servings": 1,
+   "cook_time_min": 5,
+   "calories": 280,
+   "protein_g": 25,
+   "fat_g": 8,
+   "carbs_g": 26,
+   "ingredients": [
+    {
+     "name": "Cottage Cheese",
+     "qty": 200,
+     "unit": "г"
+    },
+    {
+     "name": "Berries",
+     "qty": 100,
+     "unit": "г"
+    },
+    {
+     "name": "Honey",
+     "qty": 1,
+     "unit": "ст.л"
+    }
+   ],
+   "steps": [
+    "Выложите творог в миску.",
+    "Добавьте ягоды и полейте мёдом."
+   ],
+   "tips": [
+    "Ложка сметаны сделает вкус нежнее."
+   ]
+  },
+  {
+   "id": "e150-011",
+   "book": "essential-150",
+   "name": {
+    "ru": "Горячий бутерброд с ветчиной и сыром",
+    "en": "Ham and cheese melt"
+   },
+   "servings": 2,
+   "cook_time_min": 10,
+   "calories": 410,
+   "protein_g": 20,
+   "fat_g": 20,
+   "carbs_g": 38,
+   "ingredients": [
+    {
+     "name": "Bread",
+     "qty": 4,
+     "unit": "ломт"
+    },
+    {
+     "name": "Ham",
+     "qty": 80,
+     "unit": "г"
+    },
+    {
+     "name": "Cheese",
+     "qty": 80,
+     "unit": "г"
+    },
+    {
+     "name": "Butter",
+     "qty": 15,
+     "unit": "г"
+    }
+   ],
+   "steps": [
+    "Соберите сэндвичи: хлеб, ветчина, сыр, хлеб.",
+    "Обжарьте на масле под крышкой по 3 минуты с каждой стороны до расплавления сыра."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-012",
+   "book": "essential-150",
+   "name": {
+    "ru": "Завтрак-буррито",
+    "en": "Breakfast burrito"
+   },
+   "servings": 2,
+   "cook_time_min": 15,
+   "calories": 450,
+   "protein_g": 22,
+   "fat_g": 22,
+   "carbs_g": 42,
+   "ingredients": [
+    {
+     "name": "Tortilla",
+     "qty": 2,
+     "unit": "шт"
+    },
+    {
+     "name": "Eggs",
+     "qty": 3,
+     "unit": "шт"
+    },
+    {
+     "name": "Cheese",
+     "qty": 60,
+     "unit": "г"
+    },
+    {
+     "name": "Ham",
+     "qty": 60,
+     "unit": "г"
+    },
+    {
+     "name": "Tomato",
+     "qty": 1,
+     "unit": "шт"
+    }
+   ],
+   "steps": [
+    "Приготовьте яичницу-болтунью.",
+    "Выложите на тортильи яйца, ветчину, сыр и помидор.",
+    "Заверните и прогрейте на сухой сковороде по 1 минуте с каждой стороны."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-013",
+   "book": "essential-150",
+   "name": {
+    "ru": "Банановые панкейки",
+    "en": "Banana pancakes"
+   },
+   "servings": 2,
+   "cook_time_min": 15,
+   "calories": 340,
+   "protein_g": 12,
+   "fat_g": 10,
+   "carbs_g": 52,
+   "ingredients": [
+    {
+     "name": "Banana",
+     "qty": 2,
+     "unit": "шт"
+    },
+    {
+     "name": "Eggs",
+     "qty": 2,
+     "unit": "шт"
+    },
+    {
+     "name": "Flour",
+     "qty": 80,
+     "unit": "г"
+    },
+    {
+     "name": "Milk",
+     "qty": 80,
+     "unit": "мл"
+    }
+   ],
+   "steps": [
+    "Разомните бананы, смешайте с яйцами, молоком и мукой.",
+    "Жарьте небольшие панкейки на сухой антипригарной сковороде по 2 минуты со стороны."
+   ],
+   "tips": [
+    "Без сахара: сладость дают бананы."
+   ]
+  },
+  {
+   "id": "e150-014",
+   "book": "essential-150",
+   "name": {
+    "ru": "Яичница-болтунья со сливками",
+    "en": "Creamy scrambled eggs"
+   },
+   "servings": 2,
+   "cook_time_min": 8,
+   "calories": 330,
+   "protein_g": 19,
+   "fat_g": 27,
+   "carbs_g": 2,
+   "ingredients": [
+    {
+     "name": "Eggs",
+     "qty": 4,
+     "unit": "шт"
+    },
+    {
+     "name": "Cream",
+     "qty": 50,
+     "unit": "мл"
+    },
+    {
+     "name": "Butter",
+     "qty": 15,
+     "unit": "г"
+    }
+   ],
+   "steps": [
+    "Слегка взбейте яйца со сливками и солью.",
+    "На малом огне помешивайте лопаткой до мягких хлопьев, 3–4 минуты.",
+    "Снимите чуть раньше готовности — дойдут сами."
+   ],
+   "tips": [
+    "Главный секрет — слабый огонь и терпение."
+   ]
+  },
+  {
+   "id": "e150-015",
+   "book": "essential-150",
+   "name": {
+    "ru": "Гренки с чесноком",
+    "en": "Garlic toast"
+   },
+   "servings": 2,
+   "cook_time_min": 10,
+   "calories": 280,
+   "protein_g": 7,
+   "fat_g": 12,
+   "carbs_g": 36,
+   "ingredients": [
+    {
+     "name": "Bread",
+     "qty": 4,
+     "unit": "ломт"
+    },
+    {
+     "name": "Butter",
+     "qty": 25,
+     "unit": "г"
+    },
+    {
+     "name": "Garlic",
+     "qty": 2,
+     "unit": "шт"
+    }
+   ],
+   "steps": [
+    "Обжарьте ломтики хлеба на масле до хруста.",
+    "Горячими натрите разрезанным зубчиком чеснока, посолите."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-016",
+   "book": "essential-150",
+   "name": {
+    "ru": "Каша рисовая молочная",
+    "en": "Milk rice porridge"
+   },
+   "servings": 3,
+   "cook_time_min": 30,
+   "calories": 300,
+   "protein_g": 8,
+   "fat_g": 7,
+   "carbs_g": 52,
+   "ingredients": [
+    {
+     "name": "Rice",
+     "qty": 150,
+     "unit": "г"
+    },
+    {
+     "name": "Milk",
+     "qty": 600,
+     "unit": "мл"
+    },
+    {
+     "name": "Sugar",
+     "qty": 30,
+     "unit": "г"
+    },
+    {
+     "name": "Butter",
+     "qty": 20,
+     "unit": "г"
+    }
+   ],
+   "steps": [
+    "Промойте рис, залейте молоком с сахаром и щепоткой соли.",
+    "Варите на слабом огне 20–25 минут, помешивая.",
+    "Подавайте с кусочком масла."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-017",
+   "book": "essential-150",
+   "name": {
+    "ru": "Омлет с сыром и помидорами",
+    "en": "Cheese and tomato omelette"
+   },
+   "servings": 2,
+   "cook_time_min": 12,
+   "calories": 360,
+   "protein_g": 22,
+   "fat_g": 26,
+   "carbs_g": 6,
+   "ingredients": [
+    {
+     "name": "Eggs",
+     "qty": 4,
+     "unit": "шт"
+    },
+    {
+     "name": "Cheese",
+     "qty": 60,
+     "unit": "г"
+    },
+    {
+     "name": "Tomato",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Butter",
+     "qty": 15,
+     "unit": "г"
+    }
+   ],
+   "steps": [
+    "Взбейте яйца, вылейте на разогретое масло.",
+    "Через 2 минуты посыпьте сыром и дольками помидора.",
+    "Сложите пополам и доведите под крышкой 2 минуты."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-018",
+   "book": "essential-150",
+   "name": {
+    "ru": "Йогуртовый боул с гранолой",
+    "en": "Yogurt bowl"
+   },
+   "servings": 1,
+   "cook_time_min": 5,
+   "calories": 320,
+   "protein_g": 15,
+   "fat_g": 9,
+   "carbs_g": 45,
+   "ingredients": [
+    {
+     "name": "Yogurt",
+     "qty": 200,
+     "unit": "г"
+    },
+    {
+     "name": "Oats",
+     "qty": 40,
+     "unit": "г"
+    },
+    {
+     "name": "Berries",
+     "qty": 80,
+     "unit": "г"
+    },
+    {
+     "name": "Honey",
+     "qty": 1,
+     "unit": "ч.л"
+    }
+   ],
+   "steps": [
+    "Подсушите хлопья на сухой сковороде 3 минуты до орехового аромата.",
+    "Выложите йогурт, сверху хлопья, ягоды и мёд."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-019",
+   "book": "essential-150",
+   "name": {
+    "ru": "Борщ",
+    "en": "Borscht"
+   },
+   "servings": 6,
+   "cook_time_min": 90,
+   "calories": 310,
+   "protein_g": 14,
+   "fat_g": 12,
+   "carbs_g": 36,
+   "ingredients": [
+    {
+     "name": "Beef",
+     "qty": 500,
+     "unit": "г"
+    },
+    {
+     "name": "Cabbage",
+     "qty": 300,
+     "unit": "г"
+    },
+    {
+     "name": "Potato",
+     "qty": 3,
+     "unit": "шт"
+    },
+    {
+     "name": "Carrot",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Onion",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Tomato Sauce",
+     "qty": 2,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Garlic",
+     "qty": 2,
+     "unit": "шт"
+    }
+   ],
+   "steps": [
+    "Сварите говядину до мягкости (около часа), мясо нарежьте, бульон процедите.",
+    "Обжарьте лук и морковь, добавьте томатную пасту.",
+    "В бульон — картофель и капусту, через 10 минут зажарку и мясо. Варите 10 минут, добавьте чеснок."
+   ],
+   "tips": [
+    "На следующий день борщ ещё вкуснее. Подавайте со сметаной."
+   ]
+  },
+  {
+   "id": "e150-020",
+   "book": "essential-150",
+   "name": {
+    "ru": "Куриный суп с лапшой",
+    "en": "Chicken noodle soup"
+   },
+   "servings": 4,
+   "cook_time_min": 45,
+   "calories": 260,
+   "protein_g": 22,
+   "fat_g": 8,
+   "carbs_g": 26,
+   "ingredients": [
+    {
+     "name": "Chicken",
+     "qty": 400,
+     "unit": "г"
+    },
+    {
+     "name": "Noodles",
+     "qty": 100,
+     "unit": "г"
+    },
+    {
+     "name": "Carrot",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Onion",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Potato",
+     "qty": 2,
+     "unit": "шт"
+    }
+   ],
+   "steps": [
+    "Сварите курицу 25 минут, выньте и нарежьте.",
+    "В бульон добавьте картофель, обжаренные лук и морковь.",
+    "Через 10 минут — лапшу и мясо, варите ещё 5–7 минут."
+   ],
+   "tips": [
+    "Лавровый лист и зелень в конце — по вкусу."
+   ]
+  },
+  {
+   "id": "e150-021",
+   "book": "essential-150",
+   "name": {
+    "ru": "Щи из свежей капусты",
+    "en": "Cabbage soup (shchi)"
+   },
+   "servings": 5,
+   "cook_time_min": 60,
+   "calories": 240,
+   "protein_g": 16,
+   "fat_g": 10,
+   "carbs_g": 22,
+   "ingredients": [
+    {
+     "name": "Beef",
+     "qty": 400,
+     "unit": "г"
+    },
+    {
+     "name": "Cabbage",
+     "qty": 400,
+     "unit": "г"
+    },
+    {
+     "name": "Potato",
+     "qty": 3,
+     "unit": "шт"
+    },
+    {
+     "name": "Carrot",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Onion",
+     "qty": 1,
+     "unit": "шт"
+    }
+   ],
+   "steps": [
+    "Сварите мясной бульон, мясо нарежьте.",
+    "Добавьте картофель и капусту, варите 15 минут.",
+    "Введите зажарку из лука и моркови, варите ещё 10 минут."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-022",
+   "book": "essential-150",
+   "name": {
+    "ru": "Гороховый суп",
+    "en": "Split pea soup"
+   },
+   "servings": 5,
+   "cook_time_min": 70,
+   "calories": 300,
+   "protein_g": 17,
+   "fat_g": 8,
+   "carbs_g": 42,
+   "ingredients": [
+    {
+     "name": "Peas",
+     "qty": 250,
+     "unit": "г"
+    },
+    {
+     "name": "Ham",
+     "qty": 200,
+     "unit": "г"
+    },
+    {
+     "name": "Potato",
+     "qty": 2,
+     "unit": "шт"
+    },
+    {
+     "name": "Carrot",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Onion",
+     "qty": 1,
+     "unit": "шт"
+    }
+   ],
+   "steps": [
+    "Замочите горох заранее, отварите 40 минут до мягкости.",
+    "Добавьте картофель, зажарку и нарезанную ветчину.",
+    "Варите 15 минут; часть супа можно пюрировать."
+   ],
+   "tips": [
+    "С гренками из белого хлеба — классика."
+   ]
+  },
+  {
+   "id": "e150-023",
+   "book": "essential-150",
+   "name": {
+    "ru": "Грибной крем-суп",
+    "en": "Cream of mushroom soup"
+   },
+   "servings": 4,
+   "cook_time_min": 35,
+   "calories": 290,
+   "protein_g": 8,
+   "fat_g": 20,
+   "carbs_g": 20,
+   "ingredients": [
+    {
+     "name": "Mushroom",
+     "qty": 400,
+     "unit": "г"
+    },
+    {
+     "name": "Onion",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Potato",
+     "qty": 2,
+     "unit": "шт"
+    },
+    {
+     "name": "Cream",
+     "qty": 150,
+     "unit": "мл"
+    },
+    {
+     "name": "Butter",
+     "qty": 20,
+     "unit": "г"
+    }
+   ],
+   "steps": [
+    "Обжарьте грибы с луком на масле 7 минут.",
+    "Добавьте картофель и воду, варите 15 минут.",
+    "Пюрируйте блендером, влейте сливки, прогрейте."
+   ],
+   "tips": [
+    "Оставьте несколько жареных грибов для подачи."
+   ]
+  },
+  {
+   "id": "e150-024",
+   "book": "essential-150",
+   "name": {
+    "ru": "Томатный суп",
+    "en": "Tomato soup"
+   },
+   "servings": 4,
+   "cook_time_min": 30,
+   "calories": 220,
+   "protein_g": 5,
+   "fat_g": 12,
+   "carbs_g": 24,
+   "ingredients": [
+    {
+     "name": "Tomato",
+     "qty": 6,
+     "unit": "шт"
+    },
+    {
+     "name": "Onion",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Garlic",
+     "qty": 2,
+     "unit": "шт"
+    },
+    {
+     "name": "Cream",
+     "qty": 100,
+     "unit": "мл"
+    },
+    {
+     "name": "Olive Oil",
+     "qty": 2,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Basil",
+     "qty": 1,
+     "unit": "ч.л"
+    }
+   ],
+   "steps": [
+    "Обжарьте лук с чесноком, добавьте нарезанные помидоры.",
+    "Тушите 15 минут, пюрируйте.",
+    "Влейте сливки, приправьте базиликом, прогрейте."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-025",
+   "book": "essential-150",
+   "name": {
+    "ru": "Чечевичный суп",
+    "en": "Lentil soup"
+   },
+   "servings": 4,
+   "cook_time_min": 40,
+   "calories": 320,
+   "protein_g": 18,
+   "fat_g": 7,
+   "carbs_g": 48,
+   "ingredients": [
+    {
+     "name": "Lentils",
+     "qty": 250,
+     "unit": "г"
+    },
+    {
+     "name": "Carrot",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Onion",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Garlic",
+     "qty": 2,
+     "unit": "шт"
+    },
+    {
+     "name": "Cumin",
+     "qty": 1,
+     "unit": "ч.л"
+    },
+    {
+     "name": "Olive Oil",
+     "qty": 2,
+     "unit": "ст.л"
+    }
+   ],
+   "steps": [
+    "Обжарьте лук, морковь и чеснок с кумином.",
+    "Добавьте промытую чечевицу и 1,2 л воды.",
+    "Варите 25 минут до мягкости, посолите."
+   ],
+   "tips": [
+    "Долька лимона в тарелку раскрывает вкус."
+   ]
+  },
+  {
+   "id": "e150-026",
+   "book": "essential-150",
+   "name": {
+    "ru": "Сырный суп с курицей",
+    "en": "Cheesy chicken soup"
+   },
+   "servings": 4,
+   "cook_time_min": 40,
+   "calories": 340,
+   "protein_g": 24,
+   "fat_g": 18,
+   "carbs_g": 22,
+   "ingredients": [
+    {
+     "name": "Chicken",
+     "qty": 300,
+     "unit": "г"
+    },
+    {
+     "name": "Cheese",
+     "qty": 150,
+     "unit": "г"
+    },
+    {
+     "name": "Potato",
+     "qty": 3,
+     "unit": "шт"
+    },
+    {
+     "name": "Carrot",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Onion",
+     "qty": 1,
+     "unit": "шт"
+    }
+   ],
+   "steps": [
+    "Отварите курицу, нарежьте; в бульон — картофель.",
+    "Добавьте зажарку, варите 10 минут.",
+    "Введите тёртый сыр, мешайте до растворения, верните мясо."
+   ],
+   "tips": [
+    "Плавленый сыр даёт самый нежный вкус."
+   ]
+  },
+  {
+   "id": "e150-027",
+   "book": "essential-150",
+   "name": {
+    "ru": "Минестроне",
+    "en": "Minestrone"
+   },
+   "servings": 4,
+   "cook_time_min": 40,
+   "calories": 260,
+   "protein_g": 10,
+   "fat_g": 8,
+   "carbs_g": 40,
+   "ingredients": [
+    {
+     "name": "Pasta",
+     "qty": 80,
+     "unit": "г"
+    },
+    {
+     "name": "Tomato",
+     "qty": 3,
+     "unit": "шт"
+    },
+    {
+     "name": "Carrot",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Zucchini",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Onion",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Black Beans",
+     "qty": 150,
+     "unit": "г"
+    },
+    {
+     "name": "Olive Oil",
+     "qty": 2,
+     "unit": "ст.л"
+    }
+   ],
+   "steps": [
+    "Обжарьте овощи кубиком 5 минут.",
+    "Добавьте помидоры, фасоль и воду, варите 15 минут.",
+    "Всыпьте мелкую пасту, варите до её готовности."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-028",
+   "book": "essential-150",
+   "name": {
+    "ru": "Куриный суп с рисом",
+    "en": "Chicken rice soup"
+   },
+   "servings": 4,
+   "cook_time_min": 45,
+   "calories": 280,
+   "protein_g": 21,
+   "fat_g": 7,
+   "carbs_g": 34,
+   "ingredients": [
+    {
+     "name": "Chicken",
+     "qty": 400,
+     "unit": "г"
+    },
+    {
+     "name": "Rice",
+     "qty": 80,
+     "unit": "г"
+    },
+    {
+     "name": "Carrot",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Onion",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Potato",
+     "qty": 2,
+     "unit": "шт"
+    }
+   ],
+   "steps": [
+    "Сварите бульон с курицей, мясо нарежьте.",
+    "Добавьте рис, картофель и зажарку.",
+    "Варите 15 минут до готовности риса."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-029",
+   "book": "essential-150",
+   "name": {
+    "ru": "Уха из трески",
+    "en": "Cod fish soup"
+   },
+   "servings": 4,
+   "cook_time_min": 35,
+   "calories": 230,
+   "protein_g": 22,
+   "fat_g": 6,
+   "carbs_g": 20,
+   "ingredients": [
+    {
+     "name": "Cod",
+     "qty": 400,
+     "unit": "г"
+    },
+    {
+     "name": "Potato",
+     "qty": 3,
+     "unit": "шт"
+    },
+    {
+     "name": "Carrot",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Onion",
+     "qty": 1,
+     "unit": "шт"
+    }
+   ],
+   "steps": [
+    "Сварите картофель, морковь и лук 10 минут.",
+    "Добавьте крупные куски трески.",
+    "Варите 10 минут, посолите, дайте настояться."
+   ],
+   "tips": [
+    "Не мешайте активно — рыба останется кусочками."
+   ]
+  },
+  {
+   "id": "e150-030",
+   "book": "essential-150",
+   "name": {
+    "ru": "Крем-суп из брокколи",
+    "en": "Broccoli cream soup"
+   },
+   "servings": 4,
+   "cook_time_min": 30,
+   "calories": 240,
+   "protein_g": 9,
+   "fat_g": 15,
+   "carbs_g": 18,
+   "ingredients": [
+    {
+     "name": "Broccoli",
+     "qty": 500,
+     "unit": "г"
+    },
+    {
+     "name": "Potato",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Onion",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Cream",
+     "qty": 150,
+     "unit": "мл"
+    }
+   ],
+   "steps": [
+    "Отварите брокколи с картофелем и луком 12 минут.",
+    "Пюрируйте с частью отвара.",
+    "Добавьте сливки, посолите, прогрейте."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-031",
+   "book": "essential-150",
+   "name": {
+    "ru": "Луковый суп",
+    "en": "French onion soup"
+   },
+   "servings": 4,
+   "cook_time_min": 50,
+   "calories": 290,
+   "protein_g": 10,
+   "fat_g": 14,
+   "carbs_g": 30,
+   "ingredients": [
+    {
+     "name": "Onion",
+     "qty": 5,
+     "unit": "шт"
+    },
+    {
+     "name": "Butter",
+     "qty": 40,
+     "unit": "г"
+    },
+    {
+     "name": "Bread",
+     "qty": 4,
+     "unit": "ломт"
+    },
+    {
+     "name": "Cheese",
+     "qty": 100,
+     "unit": "г"
+    }
+   ],
+   "steps": [
+    "Томите тонко нарезанный лук на масле 25–30 минут до карамельного цвета.",
+    "Залейте 1 л бульона или воды, варите 10 минут.",
+    "Подавайте с гренкой, запечённой с сыром."
+   ],
+   "tips": [
+    "Терпение при томлении лука — весь секрет."
+   ]
+  },
+  {
+   "id": "e150-032",
+   "book": "essential-150",
+   "name": {
+    "ru": "Тыквенно-морковный крем-суп",
+    "en": "Carrot cream soup"
+   },
+   "servings": 4,
+   "cook_time_min": 35,
+   "calories": 220,
+   "protein_g": 5,
+   "fat_g": 12,
+   "carbs_g": 26,
+   "ingredients": [
+    {
+     "name": "Carrot",
+     "qty": 5,
+     "unit": "шт"
+    },
+    {
+     "name": "Sweet Potato",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Onion",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Cream",
+     "qty": 120,
+     "unit": "мл"
+    },
+    {
+     "name": "Ginger",
+     "qty": 1,
+     "unit": "ч.л"
+    }
+   ],
+   "steps": [
+    "Обжарьте лук с имбирём, добавьте морковь и батат.",
+    "Залейте водой, варите 20 минут.",
+    "Пюрируйте, добавьте сливки, посолите."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-033",
+   "book": "essential-150",
+   "name": {
+    "ru": "Суп с фрикадельками",
+    "en": "Meatball soup"
+   },
+   "servings": 4,
+   "cook_time_min": 40,
+   "calories": 290,
+   "protein_g": 20,
+   "fat_g": 12,
+   "carbs_g": 26,
+   "ingredients": [
+    {
+     "name": "Ground Beef",
+     "qty": 300,
+     "unit": "г"
+    },
+    {
+     "name": "Potato",
+     "qty": 3,
+     "unit": "шт"
+    },
+    {
+     "name": "Carrot",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Onion",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Rice",
+     "qty": 40,
+     "unit": "г"
+    }
+   ],
+   "steps": [
+    "Смешайте фарш с рисом и солью, скатайте фрикадельки.",
+    "В кипящую воду — картофель и зажарку.",
+    "Через 10 минут опустите фрикадельки, варите 12 минут."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-034",
+   "book": "essential-150",
+   "name": {
+    "ru": "Окрошка на йогурте",
+    "en": "Cold yogurt soup (okroshka)"
+   },
+   "servings": 4,
+   "cook_time_min": 20,
+   "calories": 210,
+   "protein_g": 14,
+   "fat_g": 8,
+   "carbs_g": 22,
+   "ingredients": [
+    {
+     "name": "Cucumber",
+     "qty": 2,
+     "unit": "шт"
+    },
+    {
+     "name": "Eggs",
+     "qty": 3,
+     "unit": "шт"
+    },
+    {
+     "name": "Ham",
+     "qty": 200,
+     "unit": "г"
+    },
+    {
+     "name": "Yogurt",
+     "qty": 300,
+     "unit": "г"
+    },
+    {
+     "name": "Potato",
+     "qty": 2,
+     "unit": "шт"
+    }
+   ],
+   "steps": [
+    "Отварите яйца и картофель, остудите, нарежьте кубиком.",
+    "Нарежьте огурцы и ветчину, смешайте всё.",
+    "Залейте йогуртом с холодной водой 1:1, посолите."
+   ],
+   "tips": [
+    "Свежая зелень обязательна."
+   ]
+  },
+  {
+   "id": "e150-035",
+   "book": "essential-150",
+   "name": {
+    "ru": "Куриные котлеты",
+    "en": "Chicken cutlets"
+   },
+   "servings": 4,
+   "cook_time_min": 30,
+   "calories": 320,
+   "protein_g": 28,
+   "fat_g": 16,
+   "carbs_g": 14,
+   "ingredients": [
+    {
+     "name": "Chicken",
+     "qty": 600,
+     "unit": "г"
+    },
+    {
+     "name": "Onion",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Eggs",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Bread",
+     "qty": 2,
+     "unit": "ломт"
+    },
+    {
+     "name": "Milk",
+     "qty": 50,
+     "unit": "мл"
+    }
+   ],
+   "steps": [
+    "Прокрутите курицу с луком; хлеб размочите в молоке и добавьте с яйцом.",
+    "Посолите, вымесите, сформируйте котлеты.",
+    "Жарьте по 4–5 минут с каждой стороны до готовности."
+   ],
+   "tips": [
+    "Ложка холодной воды в фарш — сочнее."
+   ]
+  },
+  {
+   "id": "e150-036",
+   "book": "essential-150",
+   "name": {
+    "ru": "Курица терияки",
+    "en": "Teriyaki chicken"
+   },
+   "servings": 3,
+   "cook_time_min": 25,
+   "calories": 380,
+   "protein_g": 32,
+   "fat_g": 14,
+   "carbs_g": 30,
+   "ingredients": [
+    {
+     "name": "Chicken",
+     "qty": 500,
+     "unit": "г"
+    },
+    {
+     "name": "Soy Sauce",
+     "qty": 4,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Honey",
+     "qty": 2,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Garlic",
+     "qty": 2,
+     "unit": "шт"
+    },
+    {
+     "name": "Ginger",
+     "qty": 1,
+     "unit": "ч.л"
+    },
+    {
+     "name": "Sesame Oil",
+     "qty": 1,
+     "unit": "ч.л"
+    }
+   ],
+   "steps": [
+    "Обжарьте кусочки курицы до румяности.",
+    "Смешайте соевый соус, мёд, чеснок и имбирь, влейте к курице.",
+    "Уваривайте 5 минут до глянцевого соуса."
+   ],
+   "tips": [
+    "Подавайте с рисом, сбрызнув кунжутным маслом."
+   ]
+  },
+  {
+   "id": "e150-037",
+   "book": "essential-150",
+   "name": {
+    "ru": "Куриное филе в сливочном соусе",
+    "en": "Creamy chicken"
+   },
+   "servings": 3,
+   "cook_time_min": 25,
+   "calories": 410,
+   "protein_g": 34,
+   "fat_g": 26,
+   "carbs_g": 8,
+   "ingredients": [
+    {
+     "name": "Chicken",
+     "qty": 500,
+     "unit": "г"
+    },
+    {
+     "name": "Cream",
+     "qty": 200,
+     "unit": "мл"
+    },
+    {
+     "name": "Garlic",
+     "qty": 2,
+     "unit": "шт"
+    },
+    {
+     "name": "Butter",
+     "qty": 20,
+     "unit": "г"
+    },
+    {
+     "name": "Parmesan",
+     "qty": 30,
+     "unit": "г"
+    }
+   ],
+   "steps": [
+    "Обжарьте филе кусочками до золотистости.",
+    "Добавьте чеснок, влейте сливки.",
+    "Томите 7 минут, вмешайте пармезан, посолите."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-038",
+   "book": "essential-150",
+   "name": {
+    "ru": "Плов с курицей",
+    "en": "Chicken pilaf"
+   },
+   "servings": 4,
+   "cook_time_min": 50,
+   "calories": 450,
+   "protein_g": 26,
+   "fat_g": 14,
+   "carbs_g": 56,
+   "ingredients": [
+    {
+     "name": "Chicken",
+     "qty": 500,
+     "unit": "г"
+    },
+    {
+     "name": "Rice",
+     "qty": 300,
+     "unit": "г"
+    },
+    {
+     "name": "Carrot",
+     "qty": 2,
+     "unit": "шт"
+    },
+    {
+     "name": "Onion",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Garlic",
+     "qty": 4,
+     "unit": "шт"
+    },
+    {
+     "name": "Cumin",
+     "qty": 1,
+     "unit": "ч.л"
+    },
+    {
+     "name": "Olive Oil",
+     "qty": 3,
+     "unit": "ст.л"
+    }
+   ],
+   "steps": [
+    "Обжарьте курицу, затем лук и морковь соломкой, добавьте кумин.",
+    "Всыпьте промытый рис, воткните зубчики чеснока, залейте водой на 1,5 см выше.",
+    "Готовьте под крышкой на слабом огне 25 минут, не мешая."
+   ],
+   "tips": [
+    "После готовности дайте постоять 10 минут."
+   ]
+  },
+  {
+   "id": "e150-039",
+   "book": "essential-150",
+   "name": {
+    "ru": "Куриное карри",
+    "en": "Chicken curry"
+   },
+   "servings": 4,
+   "cook_time_min": 35,
+   "calories": 420,
+   "protein_g": 30,
+   "fat_g": 22,
+   "carbs_g": 26,
+   "ingredients": [
+    {
+     "name": "Chicken",
+     "qty": 500,
+     "unit": "г"
+    },
+    {
+     "name": "Coconut Milk",
+     "qty": 400,
+     "unit": "мл"
+    },
+    {
+     "name": "Onion",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Garlic",
+     "qty": 3,
+     "unit": "шт"
+    },
+    {
+     "name": "Curry Powder",
+     "qty": 2,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Tomato",
+     "qty": 2,
+     "unit": "шт"
+    }
+   ],
+   "steps": [
+    "Обжарьте лук с чесноком, добавьте карри, прогрейте 30 секунд.",
+    "Добавьте курицу кусочками, обжарьте.",
+    "Влейте кокосовое молоко и помидоры, тушите 15 минут."
+   ],
+   "tips": [
+    "Подавайте с рисом басмати."
+   ]
+  },
+  {
+   "id": "e150-040",
+   "book": "essential-150",
+   "name": {
+    "ru": "Медовые крылышки",
+    "en": "Honey glazed wings"
+   },
+   "servings": 4,
+   "cook_time_min": 45,
+   "calories": 460,
+   "protein_g": 30,
+   "fat_g": 30,
+   "carbs_g": 16,
+   "ingredients": [
+    {
+     "name": "Chicken",
+     "qty": 800,
+     "unit": "г"
+    },
+    {
+     "name": "Honey",
+     "qty": 3,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Soy Sauce",
+     "qty": 3,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Garlic",
+     "qty": 3,
+     "unit": "шт"
+    },
+    {
+     "name": "Paprika",
+     "qty": 1,
+     "unit": "ч.л"
+    }
+   ],
+   "steps": [
+    "Замаринуйте крылья в смеси мёда, соевого соуса, чеснока и паприки на 20 минут.",
+    "Запекайте при 200°C 30–35 минут, перевернув в середине."
+   ],
+   "tips": [
+    "Пергамент спасёт противень от карамели."
+   ]
+  },
+  {
+   "id": "e150-041",
+   "book": "essential-150",
+   "name": {
+    "ru": "Куриные наггетсы домашние",
+    "en": "Homemade nuggets"
+   },
+   "servings": 4,
+   "cook_time_min": 30,
+   "calories": 390,
+   "protein_g": 30,
+   "fat_g": 18,
+   "carbs_g": 26,
+   "ingredients": [
+    {
+     "name": "Chicken",
+     "qty": 500,
+     "unit": "г"
+    },
+    {
+     "name": "Eggs",
+     "qty": 2,
+     "unit": "шт"
+    },
+    {
+     "name": "Flour",
+     "qty": 60,
+     "unit": "г"
+    },
+    {
+     "name": "Bread",
+     "qty": 3,
+     "unit": "ломт"
+    },
+    {
+     "name": "Olive Oil",
+     "qty": 4,
+     "unit": "ст.л"
+    }
+   ],
+   "steps": [
+    "Нарежьте филе кусочками, посолите.",
+    "Обваляйте в муке, яйце и хлебной крошке.",
+    "Жарьте в масле по 3–4 минуты до золотистости."
+   ],
+   "tips": [
+    "Крошку сделайте из подсушенного хлеба в блендере."
+   ]
+  },
+  {
+   "id": "e150-042",
+   "book": "essential-150",
+   "name": {
+    "ru": "Куриный стир-фрай с овощами",
+    "en": "Chicken veggie stir-fry"
+   },
+   "servings": 3,
+   "cook_time_min": 20,
+   "calories": 360,
+   "protein_g": 30,
+   "fat_g": 14,
+   "carbs_g": 28,
+   "ingredients": [
+    {
+     "name": "Chicken",
+     "qty": 400,
+     "unit": "г"
+    },
+    {
+     "name": "Bell Pepper",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Broccoli",
+     "qty": 200,
+     "unit": "г"
+    },
+    {
+     "name": "Carrot",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Soy Sauce",
+     "qty": 3,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Garlic",
+     "qty": 2,
+     "unit": "шт"
+    },
+    {
+     "name": "Sesame Oil",
+     "qty": 1,
+     "unit": "ст.л"
+    }
+   ],
+   "steps": [
+    "Обжарьте курицу на сильном огне 4 минуты, отложите.",
+    "Обжарьте овощи 4–5 минут до хрусткости.",
+    "Верните курицу, добавьте соевый соус и чеснок, прогрейте минуту."
+   ],
+   "tips": [
+    "Сильный огонь и постоянное помешивание — суть вока."
+   ]
+  },
+  {
+   "id": "e150-043",
+   "book": "essential-150",
+   "name": {
+    "ru": "Курица по-французски",
+    "en": "Chicken bake with cheese"
+   },
+   "servings": 4,
+   "cook_time_min": 45,
+   "calories": 470,
+   "protein_g": 36,
+   "fat_g": 28,
+   "carbs_g": 10,
+   "ingredients": [
+    {
+     "name": "Chicken",
+     "qty": 600,
+     "unit": "г"
+    },
+    {
+     "name": "Cheese",
+     "qty": 150,
+     "unit": "г"
+    },
+    {
+     "name": "Tomato",
+     "qty": 2,
+     "unit": "шт"
+    },
+    {
+     "name": "Onion",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Mayo",
+     "qty": 3,
+     "unit": "ст.л"
+    }
+   ],
+   "steps": [
+    "Отбейте филе, посолите, выложите на противень.",
+    "Сверху лук кольцами, помидоры, сетка майонеза и сыр.",
+    "Запекайте при 180°C 30 минут."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-044",
+   "book": "essential-150",
+   "name": {
+    "ru": "Чахохбили из курицы",
+    "en": "Chicken chakhokhbili"
+   },
+   "servings": 4,
+   "cook_time_min": 50,
+   "calories": 380,
+   "protein_g": 30,
+   "fat_g": 22,
+   "carbs_g": 14,
+   "ingredients": [
+    {
+     "name": "Chicken",
+     "qty": 700,
+     "unit": "г"
+    },
+    {
+     "name": "Tomato",
+     "qty": 4,
+     "unit": "шт"
+    },
+    {
+     "name": "Onion",
+     "qty": 2,
+     "unit": "шт"
+    },
+    {
+     "name": "Garlic",
+     "qty": 3,
+     "unit": "шт"
+    },
+    {
+     "name": "Basil",
+     "qty": 1,
+     "unit": "ч.л"
+    }
+   ],
+   "steps": [
+    "Обжарьте куски курицы до румяности.",
+    "Добавьте много лука, жарьте 5 минут.",
+    "Добавьте помидоры и чеснок, тушите под крышкой 30 минут. Базилик — в конце."
+   ],
+   "tips": [
+    "Никакой воды: только сок помидоров."
+   ]
+  },
+  {
+   "id": "e150-045",
+   "book": "essential-150",
+   "name": {
+    "ru": "Шаурма домашняя",
+    "en": "Homemade chicken wrap"
+   },
+   "servings": 3,
+   "cook_time_min": 30,
+   "calories": 480,
+   "protein_g": 30,
+   "fat_g": 20,
+   "carbs_g": 44,
+   "ingredients": [
+    {
+     "name": "Chicken",
+     "qty": 400,
+     "unit": "г"
+    },
+    {
+     "name": "Tortilla",
+     "qty": 3,
+     "unit": "шт"
+    },
+    {
+     "name": "Tomato",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Cucumber",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Lettuce",
+     "qty": 50,
+     "unit": "г"
+    },
+    {
+     "name": "Yogurt",
+     "qty": 100,
+     "unit": "г"
+    },
+    {
+     "name": "Garlic",
+     "qty": 1,
+     "unit": "шт"
+    }
+   ],
+   "steps": [
+    "Обжарьте курицу со специями, нарежьте.",
+    "Соус: йогурт с чесноком и солью.",
+    "Соберите: лепёшка, соус, овощи, курица. Заверните и подрумяньте на сухой сковороде."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-046",
+   "book": "essential-150",
+   "name": {
+    "ru": "Куриные бёдра в духовке",
+    "en": "Roasted chicken thighs"
+   },
+   "servings": 4,
+   "cook_time_min": 50,
+   "calories": 420,
+   "protein_g": 32,
+   "fat_g": 28,
+   "carbs_g": 4,
+   "ingredients": [
+    {
+     "name": "Chicken",
+     "qty": 800,
+     "unit": "г"
+    },
+    {
+     "name": "Garlic",
+     "qty": 4,
+     "unit": "шт"
+    },
+    {
+     "name": "Paprika",
+     "qty": 2,
+     "unit": "ч.л"
+    },
+    {
+     "name": "Olive Oil",
+     "qty": 2,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Lemon",
+     "qty": 0.5,
+     "unit": "шт"
+    }
+   ],
+   "steps": [
+    "Натрите бёдра маслом, солью, паприкой и чесноком.",
+    "Сбрызните лимоном.",
+    "Запекайте при 200°C 35–40 минут до хрустящей кожи."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-047",
+   "book": "essential-150",
+   "name": {
+    "ru": "Фахитас с курицей",
+    "en": "Chicken fajitas"
+   },
+   "servings": 3,
+   "cook_time_min": 25,
+   "calories": 430,
+   "protein_g": 30,
+   "fat_g": 16,
+   "carbs_g": 42,
+   "ingredients": [
+    {
+     "name": "Chicken",
+     "qty": 400,
+     "unit": "г"
+    },
+    {
+     "name": "Bell Pepper",
+     "qty": 2,
+     "unit": "шт"
+    },
+    {
+     "name": "Onion",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Tortilla",
+     "qty": 3,
+     "unit": "шт"
+    },
+    {
+     "name": "Paprika",
+     "qty": 1,
+     "unit": "ч.л"
+    },
+    {
+     "name": "Cumin",
+     "qty": 1,
+     "unit": "ч.л"
+    },
+    {
+     "name": "Lime",
+     "qty": 1,
+     "unit": "шт"
+    }
+   ],
+   "steps": [
+    "Обжарьте полоски курицы со специями 5 минут.",
+    "Добавьте перец и лук, жарьте ещё 5 минут.",
+    "Сбрызните лаймом, подавайте в тёплых тортильях."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-048",
+   "book": "essential-150",
+   "name": {
+    "ru": "Куриная грудка на гриле",
+    "en": "Grilled chicken breast"
+   },
+   "servings": 2,
+   "cook_time_min": 20,
+   "calories": 290,
+   "protein_g": 42,
+   "fat_g": 10,
+   "carbs_g": 2,
+   "ingredients": [
+    {
+     "name": "Chicken",
+     "qty": 400,
+     "unit": "г"
+    },
+    {
+     "name": "Olive Oil",
+     "qty": 1,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Lemon",
+     "qty": 0.5,
+     "unit": "шт"
+    },
+    {
+     "name": "Garlic",
+     "qty": 2,
+     "unit": "шт"
+    }
+   ],
+   "steps": [
+    "Отбейте грудки до ровной толщины, замаринуйте в масле с лимоном и чесноком 10 минут.",
+    "Жарьте на гриль-сковороде по 4–5 минут со стороны.",
+    "Дайте отдохнуть 5 минут под фольгой."
+   ],
+   "tips": [
+    "Отдых после жарки сохраняет соки."
+   ]
+  },
+  {
+   "id": "e150-049",
+   "book": "essential-150",
+   "name": {
+    "ru": "Куриная печень в сметане",
+    "en": "Chicken liver (creamy)"
+   },
+   "servings": 3,
+   "cook_time_min": 25,
+   "calories": 330,
+   "protein_g": 26,
+   "fat_g": 20,
+   "carbs_g": 8,
+   "ingredients": [
+    {
+     "name": "Chicken",
+     "qty": 500,
+     "unit": "г"
+    },
+    {
+     "name": "Onion",
+     "qty": 2,
+     "unit": "шт"
+    },
+    {
+     "name": "Sour Cream",
+     "qty": 200,
+     "unit": "г"
+    },
+    {
+     "name": "Butter",
+     "qty": 20,
+     "unit": "г"
+    }
+   ],
+   "steps": [
+    "Обжарьте лук, добавьте печень, жарьте 5 минут.",
+    "Посолите, добавьте сметану.",
+    "Тушите 7–8 минут, не пересушивая."
+   ],
+   "tips": [
+    "Печень любит недолгую готовку."
+   ]
+  },
+  {
+   "id": "e150-050",
+   "book": "essential-150",
+   "name": {
+    "ru": "Куриные шашлычки в духовке",
+    "en": "Oven chicken skewers"
+   },
+   "servings": 3,
+   "cook_time_min": 35,
+   "calories": 350,
+   "protein_g": 32,
+   "fat_g": 16,
+   "carbs_g": 12,
+   "ingredients": [
+    {
+     "name": "Chicken",
+     "qty": 500,
+     "unit": "г"
+    },
+    {
+     "name": "Yogurt",
+     "qty": 150,
+     "unit": "г"
+    },
+    {
+     "name": "Paprika",
+     "qty": 2,
+     "unit": "ч.л"
+    },
+    {
+     "name": "Garlic",
+     "qty": 3,
+     "unit": "шт"
+    },
+    {
+     "name": "Lemon",
+     "qty": 0.5,
+     "unit": "шт"
+    }
+   ],
+   "steps": [
+    "Замаринуйте кубики курицы в йогурте со специями на 20 минут.",
+    "Нанижите на шпажки.",
+    "Запекайте при 220°C 20 минут, перевернув раз."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-051",
+   "book": "essential-150",
+   "name": {
+    "ru": "Курица с рисом в одной сковороде",
+    "en": "One-pan chicken and rice"
+   },
+   "servings": 4,
+   "cook_time_min": 40,
+   "calories": 460,
+   "protein_g": 30,
+   "fat_g": 14,
+   "carbs_g": 54,
+   "ingredients": [
+    {
+     "name": "Chicken",
+     "qty": 500,
+     "unit": "г"
+    },
+    {
+     "name": "Rice",
+     "qty": 250,
+     "unit": "г"
+    },
+    {
+     "name": "Onion",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Garlic",
+     "qty": 2,
+     "unit": "шт"
+    },
+    {
+     "name": "Paprika",
+     "qty": 1,
+     "unit": "ч.л"
+    }
+   ],
+   "steps": [
+    "Обжарьте курицу с луком и паприкой.",
+    "Всыпьте рис, залейте 500 мл воды, посолите.",
+    "Готовьте под крышкой 20 минут на слабом огне."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-052",
+   "book": "essential-150",
+   "name": {
+    "ru": "Куриный гуляш",
+    "en": "Chicken goulash"
+   },
+   "servings": 4,
+   "cook_time_min": 40,
+   "calories": 360,
+   "protein_g": 30,
+   "fat_g": 16,
+   "carbs_g": 20,
+   "ingredients": [
+    {
+     "name": "Chicken",
+     "qty": 600,
+     "unit": "г"
+    },
+    {
+     "name": "Onion",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Carrot",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Tomato Sauce",
+     "qty": 2,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Flour",
+     "qty": 1,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Paprika",
+     "qty": 1,
+     "unit": "ч.л"
+    }
+   ],
+   "steps": [
+    "Обжарьте кусочки курицы с луком и морковью.",
+    "Присыпьте мукой, добавьте томатную пасту и паприку.",
+    "Залейте водой до половины, тушите 20 минут."
+   ],
+   "tips": [
+    "Идеален с пюре или гречкой."
+   ]
+  },
+  {
+   "id": "e150-053",
+   "book": "essential-150",
+   "name": {
+    "ru": "Цыплёнок с чесноком на сковороде",
+    "en": "Garlic pan chicken"
+   },
+   "servings": 3,
+   "cook_time_min": 35,
+   "calories": 410,
+   "protein_g": 34,
+   "fat_g": 26,
+   "carbs_g": 4,
+   "ingredients": [
+    {
+     "name": "Chicken",
+     "qty": 700,
+     "unit": "г"
+    },
+    {
+     "name": "Garlic",
+     "qty": 6,
+     "unit": "шт"
+    },
+    {
+     "name": "Butter",
+     "qty": 30,
+     "unit": "г"
+    },
+    {
+     "name": "Lemon",
+     "qty": 0.5,
+     "unit": "шт"
+    }
+   ],
+   "steps": [
+    "Обжарьте куски курицы кожей вниз до хруста, переверните.",
+    "Добавьте масло и раздавленный чеснок, готовьте 15 минут, поливая соком.",
+    "Сбрызните лимоном."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-054",
+   "book": "essential-150",
+   "name": {
+    "ru": "Куриный суп-лапша вок",
+    "en": "Chicken noodle stir bowl"
+   },
+   "servings": 2,
+   "cook_time_min": 20,
+   "calories": 420,
+   "protein_g": 28,
+   "fat_g": 12,
+   "carbs_g": 50,
+   "ingredients": [
+    {
+     "name": "Chicken",
+     "qty": 300,
+     "unit": "г"
+    },
+    {
+     "name": "Noodles",
+     "qty": 150,
+     "unit": "г"
+    },
+    {
+     "name": "Bell Pepper",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Soy Sauce",
+     "qty": 3,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Garlic",
+     "qty": 2,
+     "unit": "шт"
+    }
+   ],
+   "steps": [
+    "Отварите лапшу почти до готовности.",
+    "Обжарьте курицу, добавьте перец и чеснок.",
+    "Добавьте лапшу и соевый соус, прогрейте, помешивая, 2 минуты."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-055",
+   "book": "essential-150",
+   "name": {
+    "ru": "Котлеты домашние",
+    "en": "Classic meat cutlets"
+   },
+   "servings": 4,
+   "cook_time_min": 35,
+   "calories": 420,
+   "protein_g": 28,
+   "fat_g": 28,
+   "carbs_g": 14,
+   "ingredients": [
+    {
+     "name": "Ground Beef",
+     "qty": 600,
+     "unit": "г"
+    },
+    {
+     "name": "Onion",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Eggs",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Bread",
+     "qty": 2,
+     "unit": "ломт"
+    },
+    {
+     "name": "Milk",
+     "qty": 60,
+     "unit": "мл"
+    }
+   ],
+   "steps": [
+    "Хлеб размочите в молоке, смешайте с фаршем, луком и яйцом, посолите.",
+    "Вымесите и отбейте фарш о миску 10 раз.",
+    "Жарьте котлеты по 4–5 минут с каждой стороны, затем 5 минут под крышкой."
+   ],
+   "tips": [
+    "Отбивание фарша делает котлеты пышными."
+   ]
+  },
+  {
+   "id": "e150-056",
+   "book": "essential-150",
+   "name": {
+    "ru": "Тефтели в томатном соусе",
+    "en": "Meatballs in tomato sauce"
+   },
+   "servings": 4,
+   "cook_time_min": 45,
+   "calories": 430,
+   "protein_g": 26,
+   "fat_g": 24,
+   "carbs_g": 26,
+   "ingredients": [
+    {
+     "name": "Ground Beef",
+     "qty": 500,
+     "unit": "г"
+    },
+    {
+     "name": "Rice",
+     "qty": 80,
+     "unit": "г"
+    },
+    {
+     "name": "Onion",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Tomato Sauce",
+     "qty": 3,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Sour Cream",
+     "qty": 2,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Eggs",
+     "qty": 1,
+     "unit": "шт"
+    }
+   ],
+   "steps": [
+    "Смешайте фарш с полуготовым рисом, луком и яйцом, скатайте шарики.",
+    "Обжарьте до румяности.",
+    "Залейте соусом из томатной пасты, сметаны и воды, тушите 20 минут."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-057",
+   "book": "essential-150",
+   "name": {
+    "ru": "Бефстроганов",
+    "en": "Beef stroganoff"
+   },
+   "servings": 4,
+   "cook_time_min": 35,
+   "calories": 450,
+   "protein_g": 32,
+   "fat_g": 30,
+   "carbs_g": 10,
+   "ingredients": [
+    {
+     "name": "Beef",
+     "qty": 600,
+     "unit": "г"
+    },
+    {
+     "name": "Onion",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Sour Cream",
+     "qty": 200,
+     "unit": "г"
+    },
+    {
+     "name": "Flour",
+     "qty": 1,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Butter",
+     "qty": 25,
+     "unit": "г"
+    }
+   ],
+   "steps": [
+    "Нарежьте говядину тонкой соломкой поперёк волокон.",
+    "Обжарьте на сильном огне 3–4 минуты, добавьте лук.",
+    "Присыпьте мукой, добавьте сметану и полстакана воды, тушите 10 минут."
+   ],
+   "tips": [
+    "Тонкая нарезка поперёк волокон — гарантия мягкости."
+   ]
+  },
+  {
+   "id": "e150-058",
+   "book": "essential-150",
+   "name": {
+    "ru": "Гуляш из говядины",
+    "en": "Beef goulash"
+   },
+   "servings": 4,
+   "cook_time_min": 90,
+   "calories": 420,
+   "protein_g": 34,
+   "fat_g": 22,
+   "carbs_g": 18,
+   "ingredients": [
+    {
+     "name": "Beef",
+     "qty": 700,
+     "unit": "г"
+    },
+    {
+     "name": "Onion",
+     "qty": 2,
+     "unit": "шт"
+    },
+    {
+     "name": "Carrot",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Tomato Sauce",
+     "qty": 2,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Paprika",
+     "qty": 2,
+     "unit": "ч.л"
+    },
+    {
+     "name": "Flour",
+     "qty": 1,
+     "unit": "ст.л"
+    }
+   ],
+   "steps": [
+    "Обжарьте кубики говядины порциями до корочки.",
+    "Добавьте лук, морковь, паприку и томатную пасту.",
+    "Залейте водой, тушите под крышкой 60–70 минут до мягкости."
+   ],
+   "tips": [
+    "Не солите в начале — мясо будет мягче."
+   ]
+  },
+  {
+   "id": "e150-059",
+   "book": "essential-150",
+   "name": {
+    "ru": "Плов классический",
+    "en": "Classic beef pilaf"
+   },
+   "servings": 5,
+   "cook_time_min": 80,
+   "calories": 520,
+   "protein_g": 26,
+   "fat_g": 20,
+   "carbs_g": 58,
+   "ingredients": [
+    {
+     "name": "Beef",
+     "qty": 600,
+     "unit": "г"
+    },
+    {
+     "name": "Rice",
+     "qty": 400,
+     "unit": "г"
+    },
+    {
+     "name": "Carrot",
+     "qty": 3,
+     "unit": "шт"
+    },
+    {
+     "name": "Onion",
+     "qty": 2,
+     "unit": "шт"
+    },
+    {
+     "name": "Garlic",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Cumin",
+     "qty": 2,
+     "unit": "ч.л"
+    },
+    {
+     "name": "Olive Oil",
+     "qty": 5,
+     "unit": "ст.л"
+    }
+   ],
+   "steps": [
+    "Обжарьте мясо, затем лук и морковь соломкой; добавьте кумин, залейте водой, тушите 30 минут.",
+    "Всыпьте промытый рис ровным слоем, воткните головку чеснока.",
+    "Долейте воду на 1,5 см выше риса, готовьте без крышки до впитывания, затем 20 минут под крышкой на минимуме."
+   ],
+   "tips": [
+    "Рис не мешать до самой подачи."
+   ]
+  },
+  {
+   "id": "e150-060",
+   "book": "essential-150",
+   "name": {
+    "ru": "Свинина в соевом соусе",
+    "en": "Soy glazed pork"
+   },
+   "servings": 3,
+   "cook_time_min": 25,
+   "calories": 440,
+   "protein_g": 30,
+   "fat_g": 26,
+   "carbs_g": 16,
+   "ingredients": [
+    {
+     "name": "Pork",
+     "qty": 500,
+     "unit": "г"
+    },
+    {
+     "name": "Soy Sauce",
+     "qty": 4,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Honey",
+     "qty": 1,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Garlic",
+     "qty": 3,
+     "unit": "шт"
+    },
+    {
+     "name": "Ginger",
+     "qty": 1,
+     "unit": "ч.л"
+    }
+   ],
+   "steps": [
+    "Нарежьте свинину тонкими ломтиками, обжарьте на сильном огне.",
+    "Добавьте чеснок, имбирь, соус и мёд.",
+    "Уваривайте 3–4 минуты до карамельного блеска."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-061",
+   "book": "essential-150",
+   "name": {
+    "ru": "Отбивные свиные",
+    "en": "Pork chops"
+   },
+   "servings": 3,
+   "cook_time_min": 25,
+   "calories": 480,
+   "protein_g": 34,
+   "fat_g": 34,
+   "carbs_g": 10,
+   "ingredients": [
+    {
+     "name": "Pork",
+     "qty": 500,
+     "unit": "г"
+    },
+    {
+     "name": "Eggs",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Flour",
+     "qty": 60,
+     "unit": "г"
+    },
+    {
+     "name": "Olive Oil",
+     "qty": 3,
+     "unit": "ст.л"
+    }
+   ],
+   "steps": [
+    "Отбейте ломти свинины через плёнку, посолите.",
+    "Обваляйте в муке и яйце.",
+    "Жарьте по 4 минуты с каждой стороны до румяной корочки."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-062",
+   "book": "essential-150",
+   "name": {
+    "ru": "Перцы фаршированные",
+    "en": "Stuffed bell peppers"
+   },
+   "servings": 4,
+   "cook_time_min": 60,
+   "calories": 410,
+   "protein_g": 24,
+   "fat_g": 20,
+   "carbs_g": 34,
+   "ingredients": [
+    {
+     "name": "Bell Pepper",
+     "qty": 6,
+     "unit": "шт"
+    },
+    {
+     "name": "Ground Beef",
+     "qty": 400,
+     "unit": "г"
+    },
+    {
+     "name": "Rice",
+     "qty": 100,
+     "unit": "г"
+    },
+    {
+     "name": "Onion",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Carrot",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Tomato Sauce",
+     "qty": 2,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Sour Cream",
+     "qty": 2,
+     "unit": "ст.л"
+    }
+   ],
+   "steps": [
+    "Смешайте фарш с полуготовым рисом и обжаренным луком.",
+    "Нафаршируйте перцы, поставьте в кастрюлю.",
+    "Залейте соусом из воды, томатной пасты и сметаны, тушите 40 минут."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-063",
+   "book": "essential-150",
+   "name": {
+    "ru": "Ленивые голубцы",
+    "en": "Lazy cabbage rolls"
+   },
+   "servings": 4,
+   "cook_time_min": 50,
+   "calories": 400,
+   "protein_g": 24,
+   "fat_g": 20,
+   "carbs_g": 30,
+   "ingredients": [
+    {
+     "name": "Ground Beef",
+     "qty": 400,
+     "unit": "г"
+    },
+    {
+     "name": "Cabbage",
+     "qty": 300,
+     "unit": "г"
+    },
+    {
+     "name": "Rice",
+     "qty": 100,
+     "unit": "г"
+    },
+    {
+     "name": "Onion",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Tomato Sauce",
+     "qty": 2,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Sour Cream",
+     "qty": 2,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Eggs",
+     "qty": 1,
+     "unit": "шт"
+    }
+   ],
+   "steps": [
+    "Смешайте фарш, полуготовый рис, мелко нашинкованную капусту, лук и яйцо.",
+    "Сформируйте котлеты, обжарьте.",
+    "Тушите в томатно-сметанном соусе 25 минут."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-064",
+   "book": "essential-150",
+   "name": {
+    "ru": "Мясо по-французски",
+    "en": "Meat and potato bake"
+   },
+   "servings": 4,
+   "cook_time_min": 60,
+   "calories": 520,
+   "protein_g": 32,
+   "fat_g": 32,
+   "carbs_g": 22,
+   "ingredients": [
+    {
+     "name": "Pork",
+     "qty": 500,
+     "unit": "г"
+    },
+    {
+     "name": "Potato",
+     "qty": 4,
+     "unit": "шт"
+    },
+    {
+     "name": "Onion",
+     "qty": 2,
+     "unit": "шт"
+    },
+    {
+     "name": "Cheese",
+     "qty": 150,
+     "unit": "г"
+    },
+    {
+     "name": "Mayo",
+     "qty": 4,
+     "unit": "ст.л"
+    }
+   ],
+   "steps": [
+    "Слои в форму: тонкий картофель, отбитая свинина, лук.",
+    "Посолите слои, смажьте майонезом.",
+    "Посыпьте сыром, запекайте при 180°C 45 минут."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-065",
+   "book": "essential-150",
+   "name": {
+    "ru": "Чили кон карне",
+    "en": "Chili con carne"
+   },
+   "servings": 4,
+   "cook_time_min": 45,
+   "calories": 450,
+   "protein_g": 30,
+   "fat_g": 20,
+   "carbs_g": 36,
+   "ingredients": [
+    {
+     "name": "Ground Beef",
+     "qty": 500,
+     "unit": "г"
+    },
+    {
+     "name": "Black Beans",
+     "qty": 250,
+     "unit": "г"
+    },
+    {
+     "name": "Tomato",
+     "qty": 4,
+     "unit": "шт"
+    },
+    {
+     "name": "Onion",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Garlic",
+     "qty": 3,
+     "unit": "шт"
+    },
+    {
+     "name": "Chili",
+     "qty": 1,
+     "unit": "ч.л"
+    },
+    {
+     "name": "Cumin",
+     "qty": 1,
+     "unit": "ч.л"
+    }
+   ],
+   "steps": [
+    "Обжарьте фарш до рассыпчатости, добавьте лук и чеснок.",
+    "Добавьте специи, помидоры и фасоль.",
+    "Тушите 25 минут; подавайте с рисом или лепёшками."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-066",
+   "book": "essential-150",
+   "name": {
+    "ru": "Стейк на сковороде",
+    "en": "Pan-seared steak"
+   },
+   "servings": 2,
+   "cook_time_min": 15,
+   "calories": 520,
+   "protein_g": 44,
+   "fat_g": 38,
+   "carbs_g": 0,
+   "ingredients": [
+    {
+     "name": "Beef",
+     "qty": 400,
+     "unit": "г"
+    },
+    {
+     "name": "Butter",
+     "qty": 30,
+     "unit": "г"
+    },
+    {
+     "name": "Garlic",
+     "qty": 2,
+     "unit": "шт"
+    }
+   ],
+   "steps": [
+    "Обсушите стейк, посолите; сковороду раскалите.",
+    "Жарьте по 2–3 минуты со стороны, в конце добавьте масло и чеснок, поливайте.",
+    "Дайте отдохнуть 5 минут."
+   ],
+   "tips": [
+    "Мясо комнатной температуры и сухая поверхность — залог корочки."
+   ]
+  },
+  {
+   "id": "e150-067",
+   "book": "essential-150",
+   "name": {
+    "ru": "Жаркое по-домашнему",
+    "en": "Beef and potato stew"
+   },
+   "servings": 4,
+   "cook_time_min": 70,
+   "calories": 480,
+   "protein_g": 28,
+   "fat_g": 22,
+   "carbs_g": 40,
+   "ingredients": [
+    {
+     "name": "Beef",
+     "qty": 500,
+     "unit": "г"
+    },
+    {
+     "name": "Potato",
+     "qty": 5,
+     "unit": "шт"
+    },
+    {
+     "name": "Carrot",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Onion",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Garlic",
+     "qty": 2,
+     "unit": "шт"
+    },
+    {
+     "name": "Tomato Sauce",
+     "qty": 1,
+     "unit": "ст.л"
+    }
+   ],
+   "steps": [
+    "Обжарьте мясо кубиками, добавьте лук и морковь.",
+    "Добавьте картофель, томатную пасту, залейте водой почти доверху.",
+    "Тушите 40 минут; чеснок — в конце."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-068",
+   "book": "essential-150",
+   "name": {
+    "ru": "Свиные рёбрышки в духовке",
+    "en": "Baked pork ribs"
+   },
+   "servings": 4,
+   "cook_time_min": 90,
+   "calories": 560,
+   "protein_g": 34,
+   "fat_g": 42,
+   "carbs_g": 12,
+   "ingredients": [
+    {
+     "name": "Pork",
+     "qty": 1000,
+     "unit": "г"
+    },
+    {
+     "name": "Honey",
+     "qty": 2,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Soy Sauce",
+     "qty": 3,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Garlic",
+     "qty": 4,
+     "unit": "шт"
+    },
+    {
+     "name": "Paprika",
+     "qty": 2,
+     "unit": "ч.л"
+    }
+   ],
+   "steps": [
+    "Натрите рёбра маринадом, оставьте на 30 минут.",
+    "Запекайте под фольгой при 160°C один час.",
+    "Снимите фольгу, смажьте маринадом, подрумяньте при 220°C 15 минут."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-069",
+   "book": "essential-150",
+   "name": {
+    "ru": "Мясные шарики с сыром",
+    "en": "Cheese-stuffed meatballs"
+   },
+   "servings": 4,
+   "cook_time_min": 40,
+   "calories": 470,
+   "protein_g": 30,
+   "fat_g": 30,
+   "carbs_g": 14,
+   "ingredients": [
+    {
+     "name": "Ground Beef",
+     "qty": 600,
+     "unit": "г"
+    },
+    {
+     "name": "Mozzarella",
+     "qty": 120,
+     "unit": "г"
+    },
+    {
+     "name": "Eggs",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Bread",
+     "qty": 2,
+     "unit": "ломт"
+    },
+    {
+     "name": "Tomato Sauce",
+     "qty": 3,
+     "unit": "ст.л"
+    }
+   ],
+   "steps": [
+    "В каждый шарик фарша спрячьте кубик моцареллы.",
+    "Обжарьте до корочки.",
+    "Тушите в томатном соусе 15 минут."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-070",
+   "book": "essential-150",
+   "name": {
+    "ru": "Бургер домашний",
+    "en": "Homemade burger"
+   },
+   "servings": 2,
+   "cook_time_min": 25,
+   "calories": 650,
+   "protein_g": 38,
+   "fat_g": 36,
+   "carbs_g": 42,
+   "ingredients": [
+    {
+     "name": "Ground Beef",
+     "qty": 300,
+     "unit": "г"
+    },
+    {
+     "name": "Burger Bun",
+     "qty": 2,
+     "unit": "шт"
+    },
+    {
+     "name": "Cheese",
+     "qty": 60,
+     "unit": "г"
+    },
+    {
+     "name": "Tomato",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Lettuce",
+     "qty": 30,
+     "unit": "г"
+    },
+    {
+     "name": "Onion",
+     "qty": 0.5,
+     "unit": "шт"
+    },
+    {
+     "name": "Mayo",
+     "qty": 1,
+     "unit": "ст.л"
+    }
+   ],
+   "steps": [
+    "Сформируйте котлеты чуть шире булочки, жарьте по 3 минуты со стороны, накройте сыром.",
+    "Подрумяньте булочки срезом на сковороде.",
+    "Соберите: соус, салат, котлета, помидор, лук."
+   ],
+   "tips": [
+    "Не прижимайте котлету лопаткой — сок дороже."
+   ]
+  },
+  {
+   "id": "e150-071",
+   "book": "essential-150",
+   "name": {
+    "ru": "Лосось запечённый",
+    "en": "Baked salmon"
+   },
+   "servings": 2,
+   "cook_time_min": 25,
+   "calories": 420,
+   "protein_g": 36,
+   "fat_g": 28,
+   "carbs_g": 2,
+   "ingredients": [
+    {
+     "name": "Salmon",
+     "qty": 400,
+     "unit": "г"
+    },
+    {
+     "name": "Lemon",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Olive Oil",
+     "qty": 1,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Garlic",
+     "qty": 2,
+     "unit": "шт"
+    }
+   ],
+   "steps": [
+    "Посолите филе, сбрызните маслом и лимоном, добавьте чеснок.",
+    "Запекайте при 200°C 12–15 минут."
+   ],
+   "tips": [
+    "Лучше недодержать минуту, чем пересушить."
+   ]
+  },
+  {
+   "id": "e150-072",
+   "book": "essential-150",
+   "name": {
+    "ru": "Лосось терияки",
+    "en": "Teriyaki salmon"
+   },
+   "servings": 2,
+   "cook_time_min": 20,
+   "calories": 450,
+   "protein_g": 34,
+   "fat_g": 26,
+   "carbs_g": 16,
+   "ingredients": [
+    {
+     "name": "Salmon",
+     "qty": 400,
+     "unit": "г"
+    },
+    {
+     "name": "Soy Sauce",
+     "qty": 3,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Honey",
+     "qty": 1,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Ginger",
+     "qty": 1,
+     "unit": "ч.л"
+    },
+    {
+     "name": "Sesame Oil",
+     "qty": 1,
+     "unit": "ч.л"
+    }
+   ],
+   "steps": [
+    "Обжарьте филе кожей вниз 4 минуты, переверните.",
+    "Влейте смесь соуса, мёда и имбиря.",
+    "Поливайте глазурью 2–3 минуты до блеска."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-073",
+   "book": "essential-150",
+   "name": {
+    "ru": "Рыбные котлеты из трески",
+    "en": "Cod fish cakes"
+   },
+   "servings": 4,
+   "cook_time_min": 35,
+   "calories": 340,
+   "protein_g": 30,
+   "fat_g": 14,
+   "carbs_g": 20,
+   "ingredients": [
+    {
+     "name": "Cod",
+     "qty": 600,
+     "unit": "г"
+    },
+    {
+     "name": "Onion",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Eggs",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Bread",
+     "qty": 2,
+     "unit": "ломт"
+    },
+    {
+     "name": "Milk",
+     "qty": 50,
+     "unit": "мл"
+    }
+   ],
+   "steps": [
+    "Прокрутите треску с луком, добавьте размоченный хлеб и яйцо.",
+    "Сформируйте котлеты, обваляйте в муке или крошке.",
+    "Жарьте по 4 минуты со стороны."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-074",
+   "book": "essential-150",
+   "name": {
+    "ru": "Треска в кляре",
+    "en": "Battered cod"
+   },
+   "servings": 3,
+   "cook_time_min": 25,
+   "calories": 410,
+   "protein_g": 28,
+   "fat_g": 20,
+   "carbs_g": 26,
+   "ingredients": [
+    {
+     "name": "Cod",
+     "qty": 500,
+     "unit": "г"
+    },
+    {
+     "name": "Flour",
+     "qty": 120,
+     "unit": "г"
+    },
+    {
+     "name": "Eggs",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Milk",
+     "qty": 120,
+     "unit": "мл"
+    },
+    {
+     "name": "Olive Oil",
+     "qty": 5,
+     "unit": "ст.л"
+    }
+   ],
+   "steps": [
+    "Смешайте кляр из муки, яйца, молока и соли.",
+    "Кусочки трески обмакните в кляр.",
+    "Жарьте в горячем масле по 3–4 минуты до золотистости."
+   ],
+   "tips": [
+    "Кляр держится лучше, если рыбу обсушить и припудрить мукой."
+   ]
+  },
+  {
+   "id": "e150-075",
+   "book": "essential-150",
+   "name": {
+    "ru": "Креветки в чесночном масле",
+    "en": "Garlic butter shrimp"
+   },
+   "servings": 2,
+   "cook_time_min": 12,
+   "calories": 320,
+   "protein_g": 28,
+   "fat_g": 20,
+   "carbs_g": 4,
+   "ingredients": [
+    {
+     "name": "Shrimp",
+     "qty": 400,
+     "unit": "г"
+    },
+    {
+     "name": "Butter",
+     "qty": 40,
+     "unit": "г"
+    },
+    {
+     "name": "Garlic",
+     "qty": 4,
+     "unit": "шт"
+    },
+    {
+     "name": "Lemon",
+     "qty": 0.5,
+     "unit": "шт"
+    }
+   ],
+   "steps": [
+    "Растопите масло, обжарьте чеснок 30 секунд.",
+    "Добавьте креветки, жарьте 3–4 минуты.",
+    "Сбрызните лимоном, подавайте сразу."
+   ],
+   "tips": [
+    "Креветки готовы, как только стали розовыми — не передерживайте."
+   ]
+  },
+  {
+   "id": "e150-076",
+   "book": "essential-150",
+   "name": {
+    "ru": "Креветки в сливочном соусе",
+    "en": "Creamy shrimp"
+   },
+   "servings": 2,
+   "cook_time_min": 15,
+   "calories": 380,
+   "protein_g": 26,
+   "fat_g": 26,
+   "carbs_g": 8,
+   "ingredients": [
+    {
+     "name": "Shrimp",
+     "qty": 350,
+     "unit": "г"
+    },
+    {
+     "name": "Cream",
+     "qty": 150,
+     "unit": "мл"
+    },
+    {
+     "name": "Garlic",
+     "qty": 2,
+     "unit": "шт"
+    },
+    {
+     "name": "Parmesan",
+     "qty": 30,
+     "unit": "г"
+    },
+    {
+     "name": "Butter",
+     "qty": 15,
+     "unit": "г"
+    }
+   ],
+   "steps": [
+    "Обжарьте креветки с чесноком 2 минуты.",
+    "Влейте сливки, добавьте пармезан.",
+    "Прогрейте 3 минуты до лёгкого загустения."
+   ],
+   "tips": [
+    "Отлично со спагетти или рисом."
+   ]
+  },
+  {
+   "id": "e150-077",
+   "book": "essential-150",
+   "name": {
+    "ru": "Рыба с овощами в фольге",
+    "en": "Fish and veggies in foil"
+   },
+   "servings": 2,
+   "cook_time_min": 30,
+   "calories": 330,
+   "protein_g": 30,
+   "fat_g": 14,
+   "carbs_g": 16,
+   "ingredients": [
+    {
+     "name": "Cod",
+     "qty": 400,
+     "unit": "г"
+    },
+    {
+     "name": "Zucchini",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Tomato",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Carrot",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Olive Oil",
+     "qty": 1,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Lemon",
+     "qty": 0.5,
+     "unit": "шт"
+    }
+   ],
+   "steps": [
+    "На фольгу выложите овощи ломтиками, сверху рыбу.",
+    "Посолите, сбрызните маслом и лимоном, заверните.",
+    "Запекайте при 200°C 20 минут."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-078",
+   "book": "essential-150",
+   "name": {
+    "ru": "Тунец с рисом",
+    "en": "Tuna rice bowl"
+   },
+   "servings": 2,
+   "cook_time_min": 20,
+   "calories": 420,
+   "protein_g": 28,
+   "fat_g": 10,
+   "carbs_g": 54,
+   "ingredients": [
+    {
+     "name": "Tuna",
+     "qty": 200,
+     "unit": "г"
+    },
+    {
+     "name": "Rice",
+     "qty": 180,
+     "unit": "г"
+    },
+    {
+     "name": "Cucumber",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Soy Sauce",
+     "qty": 2,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Sesame Oil",
+     "qty": 1,
+     "unit": "ч.л"
+    },
+    {
+     "name": "Eggs",
+     "qty": 1,
+     "unit": "шт"
+    }
+   ],
+   "steps": [
+    "Отварите рис; яйцо сварите всмятку.",
+    "Выложите рис, тунца, огурец соломкой и яйцо.",
+    "Полейте соевым соусом с кунжутным маслом."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-079",
+   "book": "essential-150",
+   "name": {
+    "ru": "Лосось на сковороде с хрустящей кожей",
+    "en": "Crispy-skin salmon"
+   },
+   "servings": 2,
+   "cook_time_min": 15,
+   "calories": 430,
+   "protein_g": 36,
+   "fat_g": 30,
+   "carbs_g": 0,
+   "ingredients": [
+    {
+     "name": "Salmon",
+     "qty": 400,
+     "unit": "г"
+    },
+    {
+     "name": "Olive Oil",
+     "qty": 1,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Lemon",
+     "qty": 0.5,
+     "unit": "шт"
+    }
+   ],
+   "steps": [
+    "Обсушите кожу, посолите; выложите на холодную сковороду с маслом кожей вниз.",
+    "Жарьте на среднем огне 6–7 минут до хрустящей кожи, переверните на 1 минуту."
+   ],
+   "tips": [
+    "Холодный старт даёт идеально хрустящую кожу."
+   ]
+  },
+  {
+   "id": "e150-080",
+   "book": "essential-150",
+   "name": {
+    "ru": "Паэлья-скороварка с креветками",
+    "en": "Quick shrimp rice (paella-style)"
+   },
+   "servings": 3,
+   "cook_time_min": 35,
+   "calories": 460,
+   "protein_g": 26,
+   "fat_g": 14,
+   "carbs_g": 58,
+   "ingredients": [
+    {
+     "name": "Shrimp",
+     "qty": 300,
+     "unit": "г"
+    },
+    {
+     "name": "Rice",
+     "qty": 250,
+     "unit": "г"
+    },
+    {
+     "name": "Bell Pepper",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Onion",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Garlic",
+     "qty": 3,
+     "unit": "шт"
+    },
+    {
+     "name": "Paprika",
+     "qty": 1,
+     "unit": "ч.л"
+    },
+    {
+     "name": "Peas",
+     "qty": 100,
+     "unit": "г"
+    }
+   ],
+   "steps": [
+    "Обжарьте лук, перец, чеснок и паприку.",
+    "Всыпьте рис, залейте 500 мл воды, готовьте 15 минут не мешая.",
+    "Вдавите креветки и горошек, готовьте ещё 5–7 минут."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-081",
+   "book": "essential-150",
+   "name": {
+    "ru": "Паста карбонара",
+    "en": "Pasta carbonara"
+   },
+   "servings": 2,
+   "cook_time_min": 20,
+   "calories": 620,
+   "protein_g": 26,
+   "fat_g": 30,
+   "carbs_g": 58,
+   "ingredients": [
+    {
+     "name": "Pasta",
+     "qty": 200,
+     "unit": "г"
+    },
+    {
+     "name": "Bacon",
+     "qty": 120,
+     "unit": "г"
+    },
+    {
+     "name": "Eggs",
+     "qty": 2,
+     "unit": "шт"
+    },
+    {
+     "name": "Parmesan",
+     "qty": 50,
+     "unit": "г"
+    },
+    {
+     "name": "Pepper",
+     "qty": 1,
+     "unit": "щеп"
+    }
+   ],
+   "steps": [
+    "Отварите пасту; бекон вытопите до хруста.",
+    "Смешайте желтки (плюс одно целое яйцо) с пармезаном и перцем.",
+    "Горячую пасту смешайте с беконом вне огня, влейте яичную смесь и немного воды от варки, энергично мешая."
+   ],
+   "tips": [
+    "Соус густеет от жара пасты — не на плите, иначе получится омлет."
+   ]
+  },
+  {
+   "id": "e150-082",
+   "book": "essential-150",
+   "name": {
+    "ru": "Паста болоньезе",
+    "en": "Pasta bolognese"
+   },
+   "servings": 4,
+   "cook_time_min": 60,
+   "calories": 580,
+   "protein_g": 28,
+   "fat_g": 24,
+   "carbs_g": 60,
+   "ingredients": [
+    {
+     "name": "Pasta",
+     "qty": 320,
+     "unit": "г"
+    },
+    {
+     "name": "Ground Beef",
+     "qty": 400,
+     "unit": "г"
+    },
+    {
+     "name": "Tomato",
+     "qty": 4,
+     "unit": "шт"
+    },
+    {
+     "name": "Onion",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Carrot",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Garlic",
+     "qty": 2,
+     "unit": "шт"
+    },
+    {
+     "name": "Tomato Sauce",
+     "qty": 2,
+     "unit": "ст.л"
+    }
+   ],
+   "steps": [
+    "Обжарьте фарш до рассыпчатости, добавьте лук, морковь, чеснок.",
+    "Добавьте помидоры и пасту, тушите 30–40 минут.",
+    "Смешайте с отваренной пастой и ложкой воды от варки."
+   ],
+   "tips": [
+    "Чем дольше томится соус, тем вкуснее."
+   ]
+  },
+  {
+   "id": "e150-083",
+   "book": "essential-150",
+   "name": {
+    "ru": "Феттучини альфредо",
+    "en": "Fettuccine alfredo"
+   },
+   "servings": 2,
+   "cook_time_min": 20,
+   "calories": 650,
+   "protein_g": 20,
+   "fat_g": 36,
+   "carbs_g": 58,
+   "ingredients": [
+    {
+     "name": "Pasta",
+     "qty": 200,
+     "unit": "г"
+    },
+    {
+     "name": "Cream",
+     "qty": 200,
+     "unit": "мл"
+    },
+    {
+     "name": "Butter",
+     "qty": 30,
+     "unit": "г"
+    },
+    {
+     "name": "Parmesan",
+     "qty": 60,
+     "unit": "г"
+    },
+    {
+     "name": "Garlic",
+     "qty": 1,
+     "unit": "шт"
+    }
+   ],
+   "steps": [
+    "Отварите пасту аль денте.",
+    "Прогрейте сливки с маслом и чесноком, вмешайте пармезан.",
+    "Соедините с пастой и водой от варки до шелковистости."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-084",
+   "book": "essential-150",
+   "name": {
+    "ru": "Паста с тунцом",
+    "en": "Tuna pasta"
+   },
+   "servings": 2,
+   "cook_time_min": 15,
+   "calories": 520,
+   "protein_g": 28,
+   "fat_g": 14,
+   "carbs_g": 66,
+   "ingredients": [
+    {
+     "name": "Pasta",
+     "qty": 200,
+     "unit": "г"
+    },
+    {
+     "name": "Tuna",
+     "qty": 150,
+     "unit": "г"
+    },
+    {
+     "name": "Garlic",
+     "qty": 2,
+     "unit": "шт"
+    },
+    {
+     "name": "Olive Oil",
+     "qty": 2,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Lemon",
+     "qty": 0.5,
+     "unit": "шт"
+    }
+   ],
+   "steps": [
+    "Отварите пасту.",
+    "Прогрейте чеснок в масле, добавьте тунца.",
+    "Смешайте с пастой, сбрызните лимоном, поперчите."
+   ],
+   "tips": [
+    "Банка тунца — лучший друг быстрого ужина."
+   ]
+  },
+  {
+   "id": "e150-085",
+   "book": "essential-150",
+   "name": {
+    "ru": "Макароны по-флотски",
+    "en": "Navy-style pasta"
+   },
+   "servings": 4,
+   "cook_time_min": 30,
+   "calories": 540,
+   "protein_g": 26,
+   "fat_g": 22,
+   "carbs_g": 56,
+   "ingredients": [
+    {
+     "name": "Pasta",
+     "qty": 320,
+     "unit": "г"
+    },
+    {
+     "name": "Ground Beef",
+     "qty": 400,
+     "unit": "г"
+    },
+    {
+     "name": "Onion",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Butter",
+     "qty": 20,
+     "unit": "г"
+    }
+   ],
+   "steps": [
+    "Обжарьте фарш с луком до готовности, посолите.",
+    "Отварите макароны.",
+    "Смешайте всё с кусочком масла."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-086",
+   "book": "essential-150",
+   "name": {
+    "ru": "Паста с песто",
+    "en": "Pasta with pesto"
+   },
+   "servings": 2,
+   "cook_time_min": 15,
+   "calories": 560,
+   "protein_g": 16,
+   "fat_g": 26,
+   "carbs_g": 62,
+   "ingredients": [
+    {
+     "name": "Pasta",
+     "qty": 200,
+     "unit": "г"
+    },
+    {
+     "name": "Pesto",
+     "qty": 3,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Parmesan",
+     "qty": 30,
+     "unit": "г"
+    }
+   ],
+   "steps": [
+    "Отварите пасту, сохраните полстакана воды.",
+    "Смешайте пасту с песто и водой от варки вне огня.",
+    "Подавайте с пармезаном."
+   ],
+   "tips": [
+    "Песто не греют — только смешивают."
+   ]
+  },
+  {
+   "id": "e150-087",
+   "book": "essential-150",
+   "name": {
+    "ru": "Паста аррабиата",
+    "en": "Pasta arrabbiata"
+   },
+   "servings": 2,
+   "cook_time_min": 25,
+   "calories": 480,
+   "protein_g": 14,
+   "fat_g": 14,
+   "carbs_g": 72,
+   "ingredients": [
+    {
+     "name": "Pasta",
+     "qty": 200,
+     "unit": "г"
+    },
+    {
+     "name": "Tomato",
+     "qty": 4,
+     "unit": "шт"
+    },
+    {
+     "name": "Garlic",
+     "qty": 3,
+     "unit": "шт"
+    },
+    {
+     "name": "Chili",
+     "qty": 1,
+     "unit": "ч.л"
+    },
+    {
+     "name": "Olive Oil",
+     "qty": 3,
+     "unit": "ст.л"
+    }
+   ],
+   "steps": [
+    "Прогрейте в масле чеснок и чили.",
+    "Добавьте помидоры, уварите 10 минут.",
+    "Смешайте с пастой и водой от варки."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-088",
+   "book": "essential-150",
+   "name": {
+    "ru": "Мак-н-чиз",
+    "en": "Mac and cheese"
+   },
+   "servings": 3,
+   "cook_time_min": 30,
+   "calories": 640,
+   "protein_g": 24,
+   "fat_g": 32,
+   "carbs_g": 60,
+   "ingredients": [
+    {
+     "name": "Pasta",
+     "qty": 250,
+     "unit": "г"
+    },
+    {
+     "name": "Cheese",
+     "qty": 200,
+     "unit": "г"
+    },
+    {
+     "name": "Milk",
+     "qty": 300,
+     "unit": "мл"
+    },
+    {
+     "name": "Butter",
+     "qty": 30,
+     "unit": "г"
+    },
+    {
+     "name": "Flour",
+     "qty": 2,
+     "unit": "ст.л"
+    }
+   ],
+   "steps": [
+    "Сделайте соус: масло + мука минуту, затем молоко до загустения.",
+    "Вмешайте тёртый сыр до расплавления.",
+    "Соедините с отваренной пастой; по желанию запеките 10 минут."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-089",
+   "book": "essential-150",
+   "name": {
+    "ru": "Лазанья",
+    "en": "Lasagna"
+   },
+   "servings": 6,
+   "cook_time_min": 90,
+   "calories": 610,
+   "protein_g": 32,
+   "fat_g": 30,
+   "carbs_g": 50,
+   "ingredients": [
+    {
+     "name": "Pasta",
+     "qty": 250,
+     "unit": "г"
+    },
+    {
+     "name": "Ground Beef",
+     "qty": 500,
+     "unit": "г"
+    },
+    {
+     "name": "Tomato",
+     "qty": 4,
+     "unit": "шт"
+    },
+    {
+     "name": "Milk",
+     "qty": 500,
+     "unit": "мл"
+    },
+    {
+     "name": "Butter",
+     "qty": 40,
+     "unit": "г"
+    },
+    {
+     "name": "Flour",
+     "qty": 3,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Cheese",
+     "qty": 200,
+     "unit": "г"
+    },
+    {
+     "name": "Onion",
+     "qty": 1,
+     "unit": "шт"
+    }
+   ],
+   "steps": [
+    "Соус болоньезе: фарш, лук, помидоры — 30 минут.",
+    "Бешамель: масло, мука, молоко до густоты.",
+    "Соберите слои с листами лазаньи, сверху сыр; 180°C 40 минут."
+   ],
+   "tips": [
+    "Дайте постоять 15 минут перед нарезкой."
+   ]
+  },
+  {
+   "id": "e150-090",
+   "book": "essential-150",
+   "name": {
+    "ru": "Паста с грибами в сливках",
+    "en": "Creamy mushroom pasta"
+   },
+   "servings": 2,
+   "cook_time_min": 25,
+   "calories": 560,
+   "protein_g": 18,
+   "fat_g": 28,
+   "carbs_g": 58,
+   "ingredients": [
+    {
+     "name": "Pasta",
+     "qty": 200,
+     "unit": "г"
+    },
+    {
+     "name": "Mushroom",
+     "qty": 300,
+     "unit": "г"
+    },
+    {
+     "name": "Cream",
+     "qty": 150,
+     "unit": "мл"
+    },
+    {
+     "name": "Garlic",
+     "qty": 2,
+     "unit": "шт"
+    },
+    {
+     "name": "Parmesan",
+     "qty": 30,
+     "unit": "г"
+    },
+    {
+     "name": "Butter",
+     "qty": 20,
+     "unit": "г"
+    }
+   ],
+   "steps": [
+    "Обжарьте грибы до румяности, добавьте чеснок.",
+    "Влейте сливки, прогрейте.",
+    "Смешайте с пастой и пармезаном."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-091",
+   "book": "essential-150",
+   "name": {
+    "ru": "Паста с креветками",
+    "en": "Shrimp pasta"
+   },
+   "servings": 2,
+   "cook_time_min": 20,
+   "calories": 540,
+   "protein_g": 30,
+   "fat_g": 18,
+   "carbs_g": 62,
+   "ingredients": [
+    {
+     "name": "Pasta",
+     "qty": 200,
+     "unit": "г"
+    },
+    {
+     "name": "Shrimp",
+     "qty": 300,
+     "unit": "г"
+    },
+    {
+     "name": "Garlic",
+     "qty": 3,
+     "unit": "шт"
+    },
+    {
+     "name": "Olive Oil",
+     "qty": 2,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Tomato",
+     "qty": 2,
+     "unit": "шт"
+    },
+    {
+     "name": "Chili",
+     "qty": 0.5,
+     "unit": "ч.л"
+    }
+   ],
+   "steps": [
+    "Обжарьте чеснок и чили в масле, добавьте креветки на 2 минуты.",
+    "Добавьте помидоры кубиком на 3 минуты.",
+    "Смешайте с пастой и водой от варки."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-092",
+   "book": "essential-150",
+   "name": {
+    "ru": "Паста примавера",
+    "en": "Pasta primavera"
+   },
+   "servings": 3,
+   "cook_time_min": 25,
+   "calories": 470,
+   "protein_g": 14,
+   "fat_g": 16,
+   "carbs_g": 68,
+   "ingredients": [
+    {
+     "name": "Pasta",
+     "qty": 250,
+     "unit": "г"
+    },
+    {
+     "name": "Zucchini",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Bell Pepper",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Broccoli",
+     "qty": 150,
+     "unit": "г"
+    },
+    {
+     "name": "Peas",
+     "qty": 100,
+     "unit": "г"
+    },
+    {
+     "name": "Olive Oil",
+     "qty": 3,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Parmesan",
+     "qty": 30,
+     "unit": "г"
+    },
+    {
+     "name": "Garlic",
+     "qty": 2,
+     "unit": "шт"
+    }
+   ],
+   "steps": [
+    "Обжарьте овощи до хрусткости 5–6 минут.",
+    "Добавьте чеснок на минуту.",
+    "Смешайте с пастой, маслом и пармезаном."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-093",
+   "book": "essential-150",
+   "name": {
+    "ru": "Спагетти с чесноком и маслом",
+    "en": "Aglio e olio"
+   },
+   "servings": 2,
+   "cook_time_min": 15,
+   "calories": 480,
+   "protein_g": 12,
+   "fat_g": 20,
+   "carbs_g": 62,
+   "ingredients": [
+    {
+     "name": "Pasta",
+     "qty": 200,
+     "unit": "г"
+    },
+    {
+     "name": "Garlic",
+     "qty": 4,
+     "unit": "шт"
+    },
+    {
+     "name": "Olive Oil",
+     "qty": 4,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Chili",
+     "qty": 0.5,
+     "unit": "ч.л"
+    },
+    {
+     "name": "Parmesan",
+     "qty": 20,
+     "unit": "г"
+    }
+   ],
+   "steps": [
+    "Медленно прогрейте пластинки чеснока в масле до золотистости.",
+    "Добавьте чили; смешайте со спагетти и водой от варки.",
+    "Подавайте с пармезаном."
+   ],
+   "tips": [
+    "Чеснок не должен гореть — только золотиться."
+   ]
+  },
+  {
+   "id": "e150-094",
+   "book": "essential-150",
+   "name": {
+    "ru": "Паста с курицей и шпинатом",
+    "en": "Chicken spinach pasta"
+   },
+   "servings": 3,
+   "cook_time_min": 25,
+   "calories": 560,
+   "protein_g": 34,
+   "fat_g": 22,
+   "carbs_g": 54,
+   "ingredients": [
+    {
+     "name": "Pasta",
+     "qty": 250,
+     "unit": "г"
+    },
+    {
+     "name": "Chicken",
+     "qty": 300,
+     "unit": "г"
+    },
+    {
+     "name": "Spinach",
+     "qty": 150,
+     "unit": "г"
+    },
+    {
+     "name": "Cream",
+     "qty": 150,
+     "unit": "мл"
+    },
+    {
+     "name": "Garlic",
+     "qty": 2,
+     "unit": "шт"
+    },
+    {
+     "name": "Parmesan",
+     "qty": 30,
+     "unit": "г"
+    }
+   ],
+   "steps": [
+    "Обжарьте курицу, добавьте чеснок и шпинат до оседания.",
+    "Влейте сливки, прогрейте.",
+    "Смешайте с пастой и пармезаном."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-095",
+   "book": "essential-150",
+   "name": {
+    "ru": "Рис с грибами и луком",
+    "en": "Rice with mushrooms and onions"
+   },
+   "servings": 3,
+   "cook_time_min": 30,
+   "calories": 380,
+   "protein_g": 10,
+   "fat_g": 14,
+   "carbs_g": 58,
+   "ingredients": [
+    {
+     "name": "Mushroom",
+     "qty": 300,
+     "unit": "г"
+    },
+    {
+     "name": "Onion",
+     "qty": 2,
+     "unit": "шт"
+    },
+    {
+     "name": "Butter",
+     "qty": 30,
+     "unit": "г"
+    },
+    {
+     "name": "Rice",
+     "qty": 250,
+     "unit": "г"
+    }
+   ],
+   "steps": [
+    "Отварите рис в подсоленной воде до готовности.",
+    "Обжарьте грибы с луком на масле до румяности.",
+    "Смешайте с рисом, прогрейте вместе 2 минуты."
+   ],
+   "tips": [
+    "Ложка сливочного масла в конце — обязательна."
+   ]
+  },
+  {
+   "id": "e150-096",
+   "book": "essential-150",
+   "name": {
+    "ru": "Ризотто с грибами",
+    "en": "Mushroom risotto"
+   },
+   "servings": 3,
+   "cook_time_min": 40,
+   "calories": 520,
+   "protein_g": 14,
+   "fat_g": 20,
+   "carbs_g": 70,
+   "ingredients": [
+    {
+     "name": "Rice",
+     "qty": 250,
+     "unit": "г"
+    },
+    {
+     "name": "Mushroom",
+     "qty": 300,
+     "unit": "г"
+    },
+    {
+     "name": "Onion",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Butter",
+     "qty": 40,
+     "unit": "г"
+    },
+    {
+     "name": "Parmesan",
+     "qty": 50,
+     "unit": "г"
+    }
+   ],
+   "steps": [
+    "Обжарьте лук и грибы на половине масла.",
+    "Всыпьте рис, прогрейте минуту; подливайте горячую воду по половнику, помешивая, 18 минут.",
+    "Вмешайте масло и пармезан, накройте на 2 минуты."
+   ],
+   "tips": [
+    "Рис должен оставаться чуть упругим в центре."
+   ]
+  },
+  {
+   "id": "e150-097",
+   "book": "essential-150",
+   "name": {
+    "ru": "Рис жареный с яйцом",
+    "en": "Egg fried rice"
+   },
+   "servings": 2,
+   "cook_time_min": 15,
+   "calories": 450,
+   "protein_g": 14,
+   "fat_g": 14,
+   "carbs_g": 66,
+   "ingredients": [
+    {
+     "name": "Rice",
+     "qty": 300,
+     "unit": "г"
+    },
+    {
+     "name": "Eggs",
+     "qty": 2,
+     "unit": "шт"
+    },
+    {
+     "name": "Peas",
+     "qty": 100,
+     "unit": "г"
+    },
+    {
+     "name": "Carrot",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Soy Sauce",
+     "qty": 2,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Garlic",
+     "qty": 2,
+     "unit": "шт"
+    },
+    {
+     "name": "Sesame Oil",
+     "qty": 1,
+     "unit": "ч.л"
+    }
+   ],
+   "steps": [
+    "Идеален вчерашний холодный рис. Обжарьте яйца-болтунью, отложите.",
+    "Обжарьте морковь кубиком, горошек и чеснок.",
+    "Добавьте рис и соус, жарьте 3 минуты, верните яйца."
+   ],
+   "tips": [
+    "Горячая сковорода и холодный рис — рассыпчатость гарантирована."
+   ]
+  },
+  {
+   "id": "e150-098",
+   "book": "essential-150",
+   "name": {
+    "ru": "Киноа-боул с овощами",
+    "en": "Quinoa veggie bowl"
+   },
+   "servings": 2,
+   "cook_time_min": 25,
+   "calories": 420,
+   "protein_g": 14,
+   "fat_g": 18,
+   "carbs_g": 52,
+   "ingredients": [
+    {
+     "name": "Quinoa",
+     "qty": 150,
+     "unit": "г"
+    },
+    {
+     "name": "Avocado",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Tomato",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Cucumber",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Lemon",
+     "qty": 0.5,
+     "unit": "шт"
+    },
+    {
+     "name": "Olive Oil",
+     "qty": 2,
+     "unit": "ст.л"
+    }
+   ],
+   "steps": [
+    "Отварите киноа 15 минут, остудите.",
+    "Нарежьте овощи и авокадо.",
+    "Соберите боул, заправьте маслом с лимоном и солью."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-099",
+   "book": "essential-150",
+   "name": {
+    "ru": "Овсянка с яблоком и корицей",
+    "en": "Apple oatmeal"
+   },
+   "servings": 2,
+   "cook_time_min": 12,
+   "calories": 320,
+   "protein_g": 8,
+   "fat_g": 7,
+   "carbs_g": 58,
+   "ingredients": [
+    {
+     "name": "Oats",
+     "qty": 100,
+     "unit": "г"
+    },
+    {
+     "name": "Milk",
+     "qty": 400,
+     "unit": "мл"
+    },
+    {
+     "name": "Apple",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Honey",
+     "qty": 1,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Butter",
+     "qty": 10,
+     "unit": "г"
+    }
+   ],
+   "steps": [
+    "Сварите овсянку на молоке 5 минут.",
+    "Яблоко кубиком припустите на масле с мёдом 3 минуты.",
+    "Выложите яблоки на кашу."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-100",
+   "book": "essential-150",
+   "name": {
+    "ru": "Булгур-стайл рис с овощами",
+    "en": "Veggie rice pilaf"
+   },
+   "servings": 3,
+   "cook_time_min": 30,
+   "calories": 400,
+   "protein_g": 9,
+   "fat_g": 10,
+   "carbs_g": 68,
+   "ingredients": [
+    {
+     "name": "Rice",
+     "qty": 250,
+     "unit": "г"
+    },
+    {
+     "name": "Bell Pepper",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Carrot",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Onion",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Corn",
+     "qty": 100,
+     "unit": "г"
+    },
+    {
+     "name": "Olive Oil",
+     "qty": 2,
+     "unit": "ст.л"
+    }
+   ],
+   "steps": [
+    "Обжарьте овощи 5 минут.",
+    "Всыпьте рис, залейте водой 1:2, посолите.",
+    "Готовьте под крышкой 18 минут."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-101",
+   "book": "essential-150",
+   "name": {
+    "ru": "Каша из чечевицы с луком",
+    "en": "Lentil mash with onions"
+   },
+   "servings": 3,
+   "cook_time_min": 35,
+   "calories": 360,
+   "protein_g": 20,
+   "fat_g": 8,
+   "carbs_g": 52,
+   "ingredients": [
+    {
+     "name": "Lentils",
+     "qty": 250,
+     "unit": "г"
+    },
+    {
+     "name": "Onion",
+     "qty": 2,
+     "unit": "шт"
+    },
+    {
+     "name": "Garlic",
+     "qty": 2,
+     "unit": "шт"
+    },
+    {
+     "name": "Olive Oil",
+     "qty": 2,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Cumin",
+     "qty": 1,
+     "unit": "ч.л"
+    }
+   ],
+   "steps": [
+    "Отварите чечевицу до мягкости 20–25 минут.",
+    "Обжарьте много лука до золотистости с кумином и чесноком.",
+    "Смешайте, посолите, разомните по вкусу."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-102",
+   "book": "essential-150",
+   "name": {
+    "ru": "Рис с курицей карри (боул)",
+    "en": "Curry chicken rice bowl"
+   },
+   "servings": 2,
+   "cook_time_min": 30,
+   "calories": 520,
+   "protein_g": 32,
+   "fat_g": 16,
+   "carbs_g": 58,
+   "ingredients": [
+    {
+     "name": "Rice",
+     "qty": 200,
+     "unit": "г"
+    },
+    {
+     "name": "Chicken",
+     "qty": 300,
+     "unit": "г"
+    },
+    {
+     "name": "Yogurt",
+     "qty": 100,
+     "unit": "г"
+    },
+    {
+     "name": "Curry Powder",
+     "qty": 1,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Cucumber",
+     "qty": 1,
+     "unit": "шт"
+    }
+   ],
+   "steps": [
+    "Отварите рис.",
+    "Обжарьте курицу с карри, добавьте йогурт, прогрейте.",
+    "Соберите боул с огурцом."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-103",
+   "book": "essential-150",
+   "name": {
+    "ru": "Кускус-стайл киноа с лимоном",
+    "en": "Lemon quinoa"
+   },
+   "servings": 3,
+   "cook_time_min": 20,
+   "calories": 340,
+   "protein_g": 12,
+   "fat_g": 10,
+   "carbs_g": 52,
+   "ingredients": [
+    {
+     "name": "Quinoa",
+     "qty": 200,
+     "unit": "г"
+    },
+    {
+     "name": "Lemon",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Olive Oil",
+     "qty": 2,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Garlic",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Peas",
+     "qty": 100,
+     "unit": "г"
+    }
+   ],
+   "steps": [
+    "Отварите киноа с горошком.",
+    "Заправьте маслом, цедрой и соком лимона, чесноком.",
+    "Посолите, подавайте тёплой или холодной."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-104",
+   "book": "essential-150",
+   "name": {
+    "ru": "Овсяноблин",
+    "en": "Oat pancake (ovsyanoblin)"
+   },
+   "servings": 1,
+   "cook_time_min": 10,
+   "calories": 290,
+   "protein_g": 16,
+   "fat_g": 12,
+   "carbs_g": 30,
+   "ingredients": [
+    {
+     "name": "Oats",
+     "qty": 50,
+     "unit": "г"
+    },
+    {
+     "name": "Eggs",
+     "qty": 2,
+     "unit": "шт"
+    },
+    {
+     "name": "Milk",
+     "qty": 50,
+     "unit": "мл"
+    },
+    {
+     "name": "Cheese",
+     "qty": 40,
+     "unit": "г"
+    }
+   ],
+   "steps": [
+    "Смешайте хлопья, яйца и молоко, дайте постоять 3 минуты.",
+    "Вылейте на сковороду, жарьте 3 минуты.",
+    "Посыпьте сыром, сложите пополам."
+   ],
+   "tips": [
+    "Начинка любая: ветчина, помидор, авокадо."
+   ]
+  },
+  {
+   "id": "e150-105",
+   "book": "essential-150",
+   "name": {
+    "ru": "Картофельное пюре",
+    "en": "Mashed potatoes"
+   },
+   "servings": 4,
+   "cook_time_min": 30,
+   "calories": 320,
+   "protein_g": 7,
+   "fat_g": 12,
+   "carbs_g": 48,
+   "ingredients": [
+    {
+     "name": "Potato",
+     "qty": 800,
+     "unit": "г"
+    },
+    {
+     "name": "Milk",
+     "qty": 150,
+     "unit": "мл"
+    },
+    {
+     "name": "Butter",
+     "qty": 50,
+     "unit": "г"
+    }
+   ],
+   "steps": [
+    "Отварите картофель в подсоленной воде до мягкости.",
+    "Слейте, подсушите минуту на огне.",
+    "Разомните с горячим молоком и маслом."
+   ],
+   "tips": [
+    "Горячее молоко — пюре не посереет."
+   ]
+  },
+  {
+   "id": "e150-106",
+   "book": "essential-150",
+   "name": {
+    "ru": "Жареная картошка",
+    "en": "Pan-fried potatoes"
+   },
+   "servings": 3,
+   "cook_time_min": 30,
+   "calories": 380,
+   "protein_g": 6,
+   "fat_g": 16,
+   "carbs_g": 54,
+   "ingredients": [
+    {
+     "name": "Potato",
+     "qty": 700,
+     "unit": "г"
+    },
+    {
+     "name": "Onion",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Olive Oil",
+     "qty": 4,
+     "unit": "ст.л"
+    }
+   ],
+   "steps": [
+    "Нарежьте брусками, промойте и хорошо обсушите.",
+    "Жарьте на разогретом масле, мешая редко, 15 минут.",
+    "Лук — за 5 минут до конца, соль — в самом конце."
+   ],
+   "tips": [
+    "Соль в конце — иначе картошка даст сок и не захрустит."
+   ]
+  },
+  {
+   "id": "e150-107",
+   "book": "essential-150",
+   "name": {
+    "ru": "Картофель по-деревенски",
+    "en": "Country potatoes"
+   },
+   "servings": 4,
+   "cook_time_min": 50,
+   "calories": 360,
+   "protein_g": 6,
+   "fat_g": 12,
+   "carbs_g": 58,
+   "ingredients": [
+    {
+     "name": "Potato",
+     "qty": 800,
+     "unit": "г"
+    },
+    {
+     "name": "Olive Oil",
+     "qty": 3,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Paprika",
+     "qty": 2,
+     "unit": "ч.л"
+    },
+    {
+     "name": "Garlic",
+     "qty": 3,
+     "unit": "шт"
+    }
+   ],
+   "steps": [
+    "Дольки картофеля обсушите, смешайте с маслом и специями.",
+    "Разложите на противне в один слой.",
+    "Запекайте при 210°C 35–40 минут, перевернув раз."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-108",
+   "book": "essential-150",
+   "name": {
+    "ru": "Драники",
+    "en": "Potato pancakes (draniki)"
+   },
+   "servings": 3,
+   "cook_time_min": 30,
+   "calories": 390,
+   "protein_g": 9,
+   "fat_g": 18,
+   "carbs_g": 48,
+   "ingredients": [
+    {
+     "name": "Potato",
+     "qty": 600,
+     "unit": "г"
+    },
+    {
+     "name": "Onion",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Eggs",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Flour",
+     "qty": 2,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Olive Oil",
+     "qty": 4,
+     "unit": "ст.л"
+    }
+   ],
+   "steps": [
+    "Натрите картофель и лук, отожмите сок.",
+    "Смешайте с яйцом и мукой, посолите.",
+    "Жарьте ложкой на масле до хрустящих краёв."
+   ],
+   "tips": [
+    "Лук не даст картофелю потемнеть."
+   ]
+  },
+  {
+   "id": "e150-109",
+   "book": "essential-150",
+   "name": {
+    "ru": "Запеканка картофельная с фаршем",
+    "en": "Potato and beef casserole"
+   },
+   "servings": 4,
+   "cook_time_min": 60,
+   "calories": 520,
+   "protein_g": 28,
+   "fat_g": 26,
+   "carbs_g": 42,
+   "ingredients": [
+    {
+     "name": "Potato",
+     "qty": 800,
+     "unit": "г"
+    },
+    {
+     "name": "Ground Beef",
+     "qty": 400,
+     "unit": "г"
+    },
+    {
+     "name": "Onion",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Milk",
+     "qty": 100,
+     "unit": "мл"
+    },
+    {
+     "name": "Butter",
+     "qty": 30,
+     "unit": "г"
+    },
+    {
+     "name": "Cheese",
+     "qty": 100,
+     "unit": "г"
+    }
+   ],
+   "steps": [
+    "Сделайте пюре; фарш обжарьте с луком.",
+    "Слои: пюре — фарш — пюре.",
+    "Посыпьте сыром, запекайте при 180°C 25 минут."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-110",
+   "book": "essential-150",
+   "name": {
+    "ru": "Картофельный гратен",
+    "en": "Potato gratin"
+   },
+   "servings": 4,
+   "cook_time_min": 70,
+   "calories": 450,
+   "protein_g": 12,
+   "fat_g": 26,
+   "carbs_g": 42,
+   "ingredients": [
+    {
+     "name": "Potato",
+     "qty": 800,
+     "unit": "г"
+    },
+    {
+     "name": "Cream",
+     "qty": 300,
+     "unit": "мл"
+    },
+    {
+     "name": "Garlic",
+     "qty": 2,
+     "unit": "шт"
+    },
+    {
+     "name": "Cheese",
+     "qty": 150,
+     "unit": "г"
+    },
+    {
+     "name": "Butter",
+     "qty": 20,
+     "unit": "г"
+    }
+   ],
+   "steps": [
+    "Тонкие кружки картофеля уложите слоями в смазанную форму, соля слои.",
+    "Залейте сливками с чесноком.",
+    "Запекайте при 170°C 50 минут, последние 10 — с сыром."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-111",
+   "book": "essential-150",
+   "name": {
+    "ru": "Молодой картофель с чесноком и зеленью",
+    "en": "Garlic butter baby potatoes"
+   },
+   "servings": 3,
+   "cook_time_min": 30,
+   "calories": 340,
+   "protein_g": 6,
+   "fat_g": 14,
+   "carbs_g": 50,
+   "ingredients": [
+    {
+     "name": "Potato",
+     "qty": 700,
+     "unit": "г"
+    },
+    {
+     "name": "Butter",
+     "qty": 40,
+     "unit": "г"
+    },
+    {
+     "name": "Garlic",
+     "qty": 3,
+     "unit": "шт"
+    }
+   ],
+   "steps": [
+    "Отварите некрупный картофель целиком 15–18 минут.",
+    "Растопите масло с чесноком.",
+    "Обваляйте картофель в чесночном масле, посолите."
+   ],
+   "tips": [
+    "Свежий укроп превращает это в праздник."
+   ]
+  },
+  {
+   "id": "e150-112",
+   "book": "essential-150",
+   "name": {
+    "ru": "Картофель, запечённый с сыром",
+    "en": "Cheesy baked potatoes"
+   },
+   "servings": 3,
+   "cook_time_min": 45,
+   "calories": 420,
+   "protein_g": 14,
+   "fat_g": 18,
+   "carbs_g": 52,
+   "ingredients": [
+    {
+     "name": "Potato",
+     "qty": 600,
+     "unit": "г"
+    },
+    {
+     "name": "Cheese",
+     "qty": 150,
+     "unit": "г"
+    },
+    {
+     "name": "Sour Cream",
+     "qty": 100,
+     "unit": "г"
+    },
+    {
+     "name": "Garlic",
+     "qty": 2,
+     "unit": "шт"
+    }
+   ],
+   "steps": [
+    "Запеките половинки картофеля срезом вверх 25 минут при 200°C.",
+    "Смажьте сметаной с чесноком, посыпьте сыром.",
+    "Верните в духовку на 10 минут."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-113",
+   "book": "essential-150",
+   "name": {
+    "ru": "Айдахо-дольки в духовке",
+    "en": "Crispy potato wedges"
+   },
+   "servings": 3,
+   "cook_time_min": 45,
+   "calories": 370,
+   "protein_g": 6,
+   "fat_g": 13,
+   "carbs_g": 58,
+   "ingredients": [
+    {
+     "name": "Potato",
+     "qty": 700,
+     "unit": "г"
+    },
+    {
+     "name": "Flour",
+     "qty": 2,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Paprika",
+     "qty": 2,
+     "unit": "ч.л"
+    },
+    {
+     "name": "Olive Oil",
+     "qty": 3,
+     "unit": "ст.л"
+    }
+   ],
+   "steps": [
+    "Дольки замочите в горячей воде 10 минут, обсушите.",
+    "Обваляйте в смеси муки и специй, сбрызните маслом.",
+    "Запекайте при 220°C 30 минут до хруста."
+   ],
+   "tips": [
+    "Замачивание вымывает крахмал — корочка хрустит громче."
+   ]
+  },
+  {
+   "id": "e150-114",
+   "book": "essential-150",
+   "name": {
+    "ru": "Тушёная картошка с грибами",
+    "en": "Potato and mushroom stew"
+   },
+   "servings": 4,
+   "cook_time_min": 40,
+   "calories": 360,
+   "protein_g": 8,
+   "fat_g": 12,
+   "carbs_g": 54,
+   "ingredients": [
+    {
+     "name": "Potato",
+     "qty": 700,
+     "unit": "г"
+    },
+    {
+     "name": "Mushroom",
+     "qty": 300,
+     "unit": "г"
+    },
+    {
+     "name": "Onion",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Sour Cream",
+     "qty": 150,
+     "unit": "г"
+    }
+   ],
+   "steps": [
+    "Обжарьте грибы с луком.",
+    "Добавьте картофель кубиками, залейте водой до половины.",
+    "Тушите 20 минут, добавьте сметану, прогрейте."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-115",
+   "book": "essential-150",
+   "name": {
+    "ru": "Оливье",
+    "en": "Olivier salad"
+   },
+   "servings": 6,
+   "cook_time_min": 40,
+   "calories": 380,
+   "protein_g": 14,
+   "fat_g": 26,
+   "carbs_g": 22,
+   "ingredients": [
+    {
+     "name": "Potato",
+     "qty": 4,
+     "unit": "шт"
+    },
+    {
+     "name": "Carrot",
+     "qty": 2,
+     "unit": "шт"
+    },
+    {
+     "name": "Eggs",
+     "qty": 4,
+     "unit": "шт"
+    },
+    {
+     "name": "Ham",
+     "qty": 300,
+     "unit": "г"
+    },
+    {
+     "name": "Cucumber",
+     "qty": 2,
+     "unit": "шт"
+    },
+    {
+     "name": "Peas",
+     "qty": 200,
+     "unit": "г"
+    },
+    {
+     "name": "Mayo",
+     "qty": 4,
+     "unit": "ст.л"
+    }
+   ],
+   "steps": [
+    "Отварите картофель, морковь и яйца, остудите.",
+    "Нарежьте всё мелким кубиком, добавьте горошек.",
+    "Заправьте майонезом, посолите."
+   ],
+   "tips": [
+    "Дайте салату час в холодильнике — вкусы подружатся."
+   ]
+  },
+  {
+   "id": "e150-116",
+   "book": "essential-150",
+   "name": {
+    "ru": "Цезарь с курицей",
+    "en": "Chicken Caesar salad"
+   },
+   "servings": 2,
+   "cook_time_min": 25,
+   "calories": 480,
+   "protein_g": 34,
+   "fat_g": 30,
+   "carbs_g": 20,
+   "ingredients": [
+    {
+     "name": "Chicken",
+     "qty": 300,
+     "unit": "г"
+    },
+    {
+     "name": "Lettuce",
+     "qty": 150,
+     "unit": "г"
+    },
+    {
+     "name": "Bread",
+     "qty": 2,
+     "unit": "ломт"
+    },
+    {
+     "name": "Parmesan",
+     "qty": 40,
+     "unit": "г"
+    },
+    {
+     "name": "Mayo",
+     "qty": 2,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Garlic",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Lemon",
+     "qty": 0.5,
+     "unit": "шт"
+    }
+   ],
+   "steps": [
+    "Обжарьте курицу, нарежьте; хлеб кубиками подсушите с чесноком.",
+    "Соус: майонез, лимон, тёртый чеснок, пармезан.",
+    "Смешайте листья с соусом, сверху курица, сухарики и пармезан."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-117",
+   "book": "essential-150",
+   "name": {
+    "ru": "Греческий салат",
+    "en": "Greek salad"
+   },
+   "servings": 3,
+   "cook_time_min": 15,
+   "calories": 320,
+   "protein_g": 9,
+   "fat_g": 26,
+   "carbs_g": 12,
+   "ingredients": [
+    {
+     "name": "Tomato",
+     "qty": 3,
+     "unit": "шт"
+    },
+    {
+     "name": "Cucumber",
+     "qty": 2,
+     "unit": "шт"
+    },
+    {
+     "name": "Bell Pepper",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Onion",
+     "qty": 0.5,
+     "unit": "шт"
+    },
+    {
+     "name": "Feta",
+     "qty": 150,
+     "unit": "г"
+    },
+    {
+     "name": "Olive Oil",
+     "qty": 3,
+     "unit": "ст.л"
+    }
+   ],
+   "steps": [
+    "Овощи нарежьте крупно, лук — тонкими перьями.",
+    "Сверху кубики феты.",
+    "Полейте маслом, поперчите; не перемешивайте до подачи."
+   ],
+   "tips": [
+    "Маслины сделают его совсем греческим."
+   ]
+  },
+  {
+   "id": "e150-118",
+   "book": "essential-150",
+   "name": {
+    "ru": "Салат с тунцом и фасолью",
+    "en": "Tuna bean salad"
+   },
+   "servings": 2,
+   "cook_time_min": 15,
+   "calories": 360,
+   "protein_g": 28,
+   "fat_g": 16,
+   "carbs_g": 24,
+   "ingredients": [
+    {
+     "name": "Tuna",
+     "qty": 150,
+     "unit": "г"
+    },
+    {
+     "name": "Black Beans",
+     "qty": 200,
+     "unit": "г"
+    },
+    {
+     "name": "Onion",
+     "qty": 0.5,
+     "unit": "шт"
+    },
+    {
+     "name": "Lemon",
+     "qty": 0.5,
+     "unit": "шт"
+    },
+    {
+     "name": "Olive Oil",
+     "qty": 2,
+     "unit": "ст.л"
+    }
+   ],
+   "steps": [
+    "Смешайте тунца, фасоль и тонкий лук.",
+    "Заправьте маслом и лимонным соком.",
+    "Посолите, поперчите."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-119",
+   "book": "essential-150",
+   "name": {
+    "ru": "Капрезе",
+    "en": "Caprese"
+   },
+   "servings": 2,
+   "cook_time_min": 10,
+   "calories": 340,
+   "protein_g": 16,
+   "fat_g": 26,
+   "carbs_g": 8,
+   "ingredients": [
+    {
+     "name": "Tomato",
+     "qty": 3,
+     "unit": "шт"
+    },
+    {
+     "name": "Mozzarella",
+     "qty": 200,
+     "unit": "г"
+    },
+    {
+     "name": "Basil",
+     "qty": 1,
+     "unit": "ч.л"
+    },
+    {
+     "name": "Olive Oil",
+     "qty": 2,
+     "unit": "ст.л"
+    }
+   ],
+   "steps": [
+    "Нарежьте помидоры и моцареллу кружками.",
+    "Выложите внахлёст, посолите.",
+    "Полейте маслом, посыпьте базиликом."
+   ],
+   "tips": [
+    "Помидоры комнатной температуры вкуснее холодных."
+   ]
+  },
+  {
+   "id": "e150-120",
+   "book": "essential-150",
+   "name": {
+    "ru": "Коулслоу",
+    "en": "Coleslaw"
+   },
+   "servings": 4,
+   "cook_time_min": 15,
+   "calories": 220,
+   "protein_g": 3,
+   "fat_g": 16,
+   "carbs_g": 18,
+   "ingredients": [
+    {
+     "name": "Cabbage",
+     "qty": 400,
+     "unit": "г"
+    },
+    {
+     "name": "Carrot",
+     "qty": 2,
+     "unit": "шт"
+    },
+    {
+     "name": "Mayo",
+     "qty": 3,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Lemon",
+     "qty": 0.5,
+     "unit": "шт"
+    },
+    {
+     "name": "Sugar",
+     "qty": 1,
+     "unit": "ч.л"
+    }
+   ],
+   "steps": [
+    "Тонко нашинкуйте капусту, натрите морковь.",
+    "Помните с щепоткой соли руками.",
+    "Заправьте майонезом с лимоном и сахаром."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-121",
+   "book": "essential-150",
+   "name": {
+    "ru": "Салат огурцы-помидоры",
+    "en": "Cucumber tomato salad"
+   },
+   "servings": 3,
+   "cook_time_min": 10,
+   "calories": 180,
+   "protein_g": 3,
+   "fat_g": 14,
+   "carbs_g": 12,
+   "ingredients": [
+    {
+     "name": "Tomato",
+     "qty": 3,
+     "unit": "шт"
+    },
+    {
+     "name": "Cucumber",
+     "qty": 2,
+     "unit": "шт"
+    },
+    {
+     "name": "Onion",
+     "qty": 0.5,
+     "unit": "шт"
+    },
+    {
+     "name": "Olive Oil",
+     "qty": 2,
+     "unit": "ст.л"
+    }
+   ],
+   "steps": [
+    "Нарежьте овощи, лук — тонко.",
+    "Посолите, заправьте маслом.",
+    "Дайте постоять 5 минут."
+   ],
+   "tips": [
+    "Ложка сметаны вместо масла — по-домашнему."
+   ]
+  },
+  {
+   "id": "e150-122",
+   "book": "essential-150",
+   "name": {
+    "ru": "Морковь по-корейски",
+    "en": "Korean-style carrots"
+   },
+   "servings": 4,
+   "cook_time_min": 20,
+   "calories": 210,
+   "protein_g": 2,
+   "fat_g": 14,
+   "carbs_g": 20,
+   "ingredients": [
+    {
+     "name": "Carrot",
+     "qty": 500,
+     "unit": "г"
+    },
+    {
+     "name": "Garlic",
+     "qty": 3,
+     "unit": "шт"
+    },
+    {
+     "name": "Olive Oil",
+     "qty": 4,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Paprika",
+     "qty": 1,
+     "unit": "ч.л"
+    },
+    {
+     "name": "Chili",
+     "qty": 0.5,
+     "unit": "ч.л"
+    },
+    {
+     "name": "Sugar",
+     "qty": 1,
+     "unit": "ч.л"
+    }
+   ],
+   "steps": [
+    "Натрите морковь длинной соломкой, помните с солью и сахаром.",
+    "Сверху чеснок и специи горкой.",
+    "Раскалите масло и вылейте на специи, перемешайте. Час в холоде."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-123",
+   "book": "essential-150",
+   "name": {
+    "ru": "Салат с курицей и йогуртом",
+    "en": "Chicken yogurt salad"
+   },
+   "servings": 2,
+   "cook_time_min": 20,
+   "calories": 340,
+   "protein_g": 30,
+   "fat_g": 14,
+   "carbs_g": 16,
+   "ingredients": [
+    {
+     "name": "Chicken",
+     "qty": 250,
+     "unit": "г"
+    },
+    {
+     "name": "Cucumber",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Yogurt",
+     "qty": 120,
+     "unit": "г"
+    },
+    {
+     "name": "Corn",
+     "qty": 100,
+     "unit": "г"
+    },
+    {
+     "name": "Eggs",
+     "qty": 2,
+     "unit": "шт"
+    }
+   ],
+   "steps": [
+    "Отварите курицу и яйца, нарежьте.",
+    "Добавьте огурец и кукурузу.",
+    "Заправьте йогуртом с солью и перцем."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-124",
+   "book": "essential-150",
+   "name": {
+    "ru": "Салат из капусты с огурцом",
+    "en": "Fresh cabbage salad"
+   },
+   "servings": 3,
+   "cook_time_min": 10,
+   "calories": 150,
+   "protein_g": 2,
+   "fat_g": 10,
+   "carbs_g": 14,
+   "ingredients": [
+    {
+     "name": "Cabbage",
+     "qty": 300,
+     "unit": "г"
+    },
+    {
+     "name": "Cucumber",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Olive Oil",
+     "qty": 2,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Lemon",
+     "qty": 0.5,
+     "unit": "шт"
+    }
+   ],
+   "steps": [
+    "Тонко нашинкуйте капусту, помните с солью.",
+    "Добавьте огурец соломкой.",
+    "Заправьте маслом и лимоном."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-125",
+   "book": "essential-150",
+   "name": {
+    "ru": "Салат с авокадо и креветками",
+    "en": "Shrimp avocado salad"
+   },
+   "servings": 2,
+   "cook_time_min": 15,
+   "calories": 380,
+   "protein_g": 24,
+   "fat_g": 26,
+   "carbs_g": 12,
+   "ingredients": [
+    {
+     "name": "Shrimp",
+     "qty": 250,
+     "unit": "г"
+    },
+    {
+     "name": "Avocado",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Lettuce",
+     "qty": 100,
+     "unit": "г"
+    },
+    {
+     "name": "Lemon",
+     "qty": 0.5,
+     "unit": "шт"
+    },
+    {
+     "name": "Olive Oil",
+     "qty": 2,
+     "unit": "ст.л"
+    }
+   ],
+   "steps": [
+    "Обжарьте креветки 3 минуты.",
+    "Нарежьте авокадо, порвите листья.",
+    "Заправьте маслом и лимоном, посолите."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-126",
+   "book": "essential-150",
+   "name": {
+    "ru": "Тёплый салат с курицей",
+    "en": "Warm chicken salad"
+   },
+   "servings": 2,
+   "cook_time_min": 20,
+   "calories": 410,
+   "protein_g": 32,
+   "fat_g": 24,
+   "carbs_g": 16,
+   "ingredients": [
+    {
+     "name": "Chicken",
+     "qty": 300,
+     "unit": "г"
+    },
+    {
+     "name": "Lettuce",
+     "qty": 100,
+     "unit": "г"
+    },
+    {
+     "name": "Tomato",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Bell Pepper",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Olive Oil",
+     "qty": 2,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Soy Sauce",
+     "qty": 1,
+     "unit": "ст.л"
+    }
+   ],
+   "steps": [
+    "Обжарьте курицу полосками с соевым соусом.",
+    "Выложите на листья с овощами.",
+    "Полейте соком со сковороды и маслом."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-127",
+   "book": "essential-150",
+   "name": {
+    "ru": "Яичный салат для тостов",
+    "en": "Egg salad"
+   },
+   "servings": 3,
+   "cook_time_min": 15,
+   "calories": 300,
+   "protein_g": 16,
+   "fat_g": 22,
+   "carbs_g": 8,
+   "ingredients": [
+    {
+     "name": "Eggs",
+     "qty": 5,
+     "unit": "шт"
+    },
+    {
+     "name": "Mayo",
+     "qty": 2,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Cucumber",
+     "qty": 1,
+     "unit": "шт"
+    }
+   ],
+   "steps": [
+    "Отварите яйца вкрутую, порубите.",
+    "Добавьте огурец кубиком.",
+    "Заправьте майонезом, посолите; мажьте на тосты."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-128",
+   "book": "essential-150",
+   "name": {
+    "ru": "Салат с фетой и шпинатом",
+    "en": "Spinach feta salad"
+   },
+   "servings": 2,
+   "cook_time_min": 10,
+   "calories": 290,
+   "protein_g": 10,
+   "fat_g": 24,
+   "carbs_g": 10,
+   "ingredients": [
+    {
+     "name": "Spinach",
+     "qty": 120,
+     "unit": "г"
+    },
+    {
+     "name": "Feta",
+     "qty": 100,
+     "unit": "г"
+    },
+    {
+     "name": "Tomato",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Olive Oil",
+     "qty": 2,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Lemon",
+     "qty": 0.5,
+     "unit": "шт"
+    }
+   ],
+   "steps": [
+    "Смешайте шпинат с дольками помидора.",
+    "Раскрошите фету.",
+    "Заправьте маслом с лимоном."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-129",
+   "book": "essential-150",
+   "name": {
+    "ru": "Крабовый стиль салат с кукурузой",
+    "en": "Corn and egg salad"
+   },
+   "servings": 4,
+   "cook_time_min": 20,
+   "calories": 320,
+   "protein_g": 14,
+   "fat_g": 20,
+   "carbs_g": 22,
+   "ingredients": [
+    {
+     "name": "Corn",
+     "qty": 250,
+     "unit": "г"
+    },
+    {
+     "name": "Eggs",
+     "qty": 4,
+     "unit": "шт"
+    },
+    {
+     "name": "Cucumber",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Rice",
+     "qty": 100,
+     "unit": "г"
+    },
+    {
+     "name": "Mayo",
+     "qty": 3,
+     "unit": "ст.л"
+    }
+   ],
+   "steps": [
+    "Отварите рис и яйца.",
+    "Нарежьте всё, смешайте с кукурузой.",
+    "Заправьте майонезом."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-130",
+   "book": "essential-150",
+   "name": {
+    "ru": "Салат из помидоров с сыром и чесноком",
+    "en": "Tomato cheese salad"
+   },
+   "servings": 3,
+   "cook_time_min": 10,
+   "calories": 280,
+   "protein_g": 12,
+   "fat_g": 22,
+   "carbs_g": 8,
+   "ingredients": [
+    {
+     "name": "Tomato",
+     "qty": 3,
+     "unit": "шт"
+    },
+    {
+     "name": "Cheese",
+     "qty": 120,
+     "unit": "г"
+    },
+    {
+     "name": "Garlic",
+     "qty": 2,
+     "unit": "шт"
+    },
+    {
+     "name": "Mayo",
+     "qty": 2,
+     "unit": "ст.л"
+    }
+   ],
+   "steps": [
+    "Помидоры кружками на блюдо.",
+    "Смешайте тёртый сыр, чеснок и майонез.",
+    "Выложите сырную шапку на помидоры."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-131",
+   "book": "essential-150",
+   "name": {
+    "ru": "Овощи гриль",
+    "en": "Grilled vegetables"
+   },
+   "servings": 3,
+   "cook_time_min": 25,
+   "calories": 240,
+   "protein_g": 5,
+   "fat_g": 16,
+   "carbs_g": 20,
+   "ingredients": [
+    {
+     "name": "Zucchini",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Bell Pepper",
+     "qty": 2,
+     "unit": "шт"
+    },
+    {
+     "name": "Onion",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Mushroom",
+     "qty": 200,
+     "unit": "г"
+    },
+    {
+     "name": "Olive Oil",
+     "qty": 3,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Garlic",
+     "qty": 2,
+     "unit": "шт"
+    }
+   ],
+   "steps": [
+    "Нарежьте овощи крупно, смешайте с маслом и солью.",
+    "Жарьте на гриль-сковороде до полосок с двух сторон.",
+    "Сбрызните чесночным маслом."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-132",
+   "book": "essential-150",
+   "name": {
+    "ru": "Брокколи с чесноком",
+    "en": "Garlic broccoli"
+   },
+   "servings": 2,
+   "cook_time_min": 15,
+   "calories": 180,
+   "protein_g": 7,
+   "fat_g": 12,
+   "carbs_g": 12,
+   "ingredients": [
+    {
+     "name": "Broccoli",
+     "qty": 400,
+     "unit": "г"
+    },
+    {
+     "name": "Garlic",
+     "qty": 3,
+     "unit": "шт"
+    },
+    {
+     "name": "Olive Oil",
+     "qty": 2,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Lemon",
+     "qty": 0.5,
+     "unit": "шт"
+    }
+   ],
+   "steps": [
+    "Бланшируйте соцветия 3 минуты, обсушите.",
+    "Обжарьте чеснок в масле, добавьте брокколи на 3 минуты.",
+    "Сбрызните лимоном, посолите."
+   ],
+   "tips": [
+    "Не переваривайте — брокколи должна хрустеть."
+   ]
+  },
+  {
+   "id": "e150-133",
+   "book": "essential-150",
+   "name": {
+    "ru": "Цветная капуста в сухарях",
+    "en": "Crispy cauliflower"
+   },
+   "servings": 3,
+   "cook_time_min": 25,
+   "calories": 260,
+   "protein_g": 9,
+   "fat_g": 16,
+   "carbs_g": 20,
+   "ingredients": [
+    {
+     "name": "Cauliflower",
+     "qty": 500,
+     "unit": "г"
+    },
+    {
+     "name": "Eggs",
+     "qty": 2,
+     "unit": "шт"
+    },
+    {
+     "name": "Bread",
+     "qty": 3,
+     "unit": "ломт"
+    },
+    {
+     "name": "Butter",
+     "qty": 30,
+     "unit": "г"
+    }
+   ],
+   "steps": [
+    "Отварите соцветия 5 минут.",
+    "Обмакните в яйцо и хлебную крошку.",
+    "Обжарьте на масле до золотистой корочки."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-134",
+   "book": "essential-150",
+   "name": {
+    "ru": "Овощное рагу",
+    "en": "Vegetable stew"
+   },
+   "servings": 4,
+   "cook_time_min": 40,
+   "calories": 260,
+   "protein_g": 6,
+   "fat_g": 12,
+   "carbs_g": 34,
+   "ingredients": [
+    {
+     "name": "Zucchini",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Potato",
+     "qty": 3,
+     "unit": "шт"
+    },
+    {
+     "name": "Carrot",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Onion",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Tomato",
+     "qty": 3,
+     "unit": "шт"
+    },
+    {
+     "name": "Bell Pepper",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Garlic",
+     "qty": 2,
+     "unit": "шт"
+    }
+   ],
+   "steps": [
+    "Обжарьте лук и морковь, добавьте картофель на 5 минут.",
+    "Добавьте остальные овощи и полстакана воды.",
+    "Тушите 20 минут; чеснок — в конце."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-135",
+   "book": "essential-150",
+   "name": {
+    "ru": "Кабачки жареные с чесноком",
+    "en": "Fried zucchini"
+   },
+   "servings": 3,
+   "cook_time_min": 20,
+   "calories": 210,
+   "protein_g": 4,
+   "fat_g": 16,
+   "carbs_g": 14,
+   "ingredients": [
+    {
+     "name": "Zucchini",
+     "qty": 2,
+     "unit": "шт"
+    },
+    {
+     "name": "Garlic",
+     "qty": 3,
+     "unit": "шт"
+    },
+    {
+     "name": "Sour Cream",
+     "qty": 100,
+     "unit": "г"
+    },
+    {
+     "name": "Flour",
+     "qty": 2,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Olive Oil",
+     "qty": 3,
+     "unit": "ст.л"
+    }
+   ],
+   "steps": [
+    "Кружки кабачка присолите, обваляйте в муке.",
+    "Обжарьте до румяности с двух сторон.",
+    "Подавайте со сметаной и чесноком."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-136",
+   "book": "essential-150",
+   "name": {
+    "ru": "Стручковая фасоль с яйцом",
+    "en": "Green beans with egg"
+   },
+   "servings": 2,
+   "cook_time_min": 15,
+   "calories": 240,
+   "protein_g": 13,
+   "fat_g": 16,
+   "carbs_g": 12,
+   "ingredients": [
+    {
+     "name": "Green Beans",
+     "qty": 350,
+     "unit": "г"
+    },
+    {
+     "name": "Eggs",
+     "qty": 3,
+     "unit": "шт"
+    },
+    {
+     "name": "Butter",
+     "qty": 20,
+     "unit": "г"
+    },
+    {
+     "name": "Garlic",
+     "qty": 2,
+     "unit": "шт"
+    }
+   ],
+   "steps": [
+    "Отварите фасоль 4 минуты.",
+    "Обжарьте на масле с чесноком 3 минуты.",
+    "Влейте взболтанные яйца, доведите помешивая."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-137",
+   "book": "essential-150",
+   "name": {
+    "ru": "Гуакамоле",
+    "en": "Guacamole"
+   },
+   "servings": 3,
+   "cook_time_min": 10,
+   "calories": 220,
+   "protein_g": 3,
+   "fat_g": 20,
+   "carbs_g": 10,
+   "ingredients": [
+    {
+     "name": "Avocado",
+     "qty": 2,
+     "unit": "шт"
+    },
+    {
+     "name": "Tomato",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Onion",
+     "qty": 0.5,
+     "unit": "шт"
+    },
+    {
+     "name": "Lime",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Chili",
+     "qty": 0.5,
+     "unit": "ч.л"
+    }
+   ],
+   "steps": [
+    "Разомните авокадо вилкой с соком лайма.",
+    "Вмешайте мелкие кубики помидора и лука.",
+    "Посолите, добавьте чили по вкусу."
+   ],
+   "tips": [
+    "Косточка в миске не спасает от потемнения — спасает лайм и плёнка."
+   ]
+  },
+  {
+   "id": "e150-138",
+   "book": "essential-150",
+   "name": {
+    "ru": "Хумус",
+    "en": "Hummus"
+   },
+   "servings": 4,
+   "cook_time_min": 15,
+   "calories": 280,
+   "protein_g": 10,
+   "fat_g": 16,
+   "carbs_g": 26,
+   "ingredients": [
+    {
+     "name": "Chickpeas",
+     "qty": 300,
+     "unit": "г"
+    },
+    {
+     "name": "Garlic",
+     "qty": 2,
+     "unit": "шт"
+    },
+    {
+     "name": "Lemon",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Olive Oil",
+     "qty": 3,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Cumin",
+     "qty": 1,
+     "unit": "ч.л"
+    }
+   ],
+   "steps": [
+    "Пробейте нут блендером с чесноком, лимонным соком и кумином.",
+    "Подливайте воду от нута до кремовости.",
+    "Подавайте с маслом сверху и лепёшками."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-139",
+   "book": "essential-150",
+   "name": {
+    "ru": "Капуста тушёная",
+    "en": "Braised cabbage"
+   },
+   "servings": 4,
+   "cook_time_min": 40,
+   "calories": 190,
+   "protein_g": 4,
+   "fat_g": 9,
+   "carbs_g": 24,
+   "ingredients": [
+    {
+     "name": "Cabbage",
+     "qty": 700,
+     "unit": "г"
+    },
+    {
+     "name": "Onion",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Carrot",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Tomato Sauce",
+     "qty": 2,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Olive Oil",
+     "qty": 2,
+     "unit": "ст.л"
+    }
+   ],
+   "steps": [
+    "Обжарьте лук и морковь, добавьте нашинкованную капусту.",
+    "Добавьте томатную пасту и полстакана воды.",
+    "Тушите 25–30 минут до мягкости."
+   ],
+   "tips": [
+    "С сосисками превращается в полноценный ужин."
+   ]
+  },
+  {
+   "id": "e150-140",
+   "book": "essential-150",
+   "name": {
+    "ru": "Кукуруза с маслом и солью",
+    "en": "Butter corn"
+   },
+   "servings": 2,
+   "cook_time_min": 15,
+   "calories": 260,
+   "protein_g": 6,
+   "fat_g": 12,
+   "carbs_g": 36,
+   "ingredients": [
+    {
+     "name": "Corn",
+     "qty": 400,
+     "unit": "г"
+    },
+    {
+     "name": "Butter",
+     "qty": 30,
+     "unit": "г"
+    }
+   ],
+   "steps": [
+    "Отварите или прогрейте кукурузу.",
+    "Горячей смешайте с маслом и солью."
+   ],
+   "tips": [
+    "Щепотка паприки — интереснее."
+   ]
+  },
+  {
+   "id": "e150-141",
+   "book": "essential-150",
+   "name": {
+    "ru": "Шарлотка с яблоками",
+    "en": "Apple sharlotka"
+   },
+   "servings": 6,
+   "cook_time_min": 50,
+   "calories": 320,
+   "protein_g": 7,
+   "fat_g": 10,
+   "carbs_g": 52,
+   "ingredients": [
+    {
+     "name": "Apple",
+     "qty": 4,
+     "unit": "шт"
+    },
+    {
+     "name": "Eggs",
+     "qty": 4,
+     "unit": "шт"
+    },
+    {
+     "name": "Sugar",
+     "qty": 180,
+     "unit": "г"
+    },
+    {
+     "name": "Flour",
+     "qty": 180,
+     "unit": "г"
+    }
+   ],
+   "steps": [
+    "Взбейте яйца с сахаром в пышную светлую пену 5–7 минут.",
+    "Аккуратно вмешайте муку лопаткой.",
+    "Яблоки дольками в форму, залейте тестом; 180°C 35–40 минут."
+   ],
+   "tips": [
+    "Не открывайте духовку первые 25 минут — осядет."
+   ]
+  },
+  {
+   "id": "e150-142",
+   "book": "essential-150",
+   "name": {
+    "ru": "Банановый хлеб",
+    "en": "Banana bread"
+   },
+   "servings": 6,
+   "cook_time_min": 60,
+   "calories": 340,
+   "protein_g": 6,
+   "fat_g": 12,
+   "carbs_g": 54,
+   "ingredients": [
+    {
+     "name": "Banana",
+     "qty": 3,
+     "unit": "шт"
+    },
+    {
+     "name": "Flour",
+     "qty": 220,
+     "unit": "г"
+    },
+    {
+     "name": "Eggs",
+     "qty": 2,
+     "unit": "шт"
+    },
+    {
+     "name": "Sugar",
+     "qty": 120,
+     "unit": "г"
+    },
+    {
+     "name": "Butter",
+     "qty": 80,
+     "unit": "г"
+    }
+   ],
+   "steps": [
+    "Разомните спелые бананы, смешайте с яйцами, сахаром и растопленным маслом.",
+    "Вмешайте муку с щепоткой соды.",
+    "Выпекайте в форме при 175°C 50 минут."
+   ],
+   "tips": [
+    "Чем чернее бананы, тем вкуснее хлеб."
+   ]
+  },
+  {
+   "id": "e150-143",
+   "book": "essential-150",
+   "name": {
+    "ru": "Овсяное печенье",
+    "en": "Oatmeal cookies"
+   },
+   "servings": 6,
+   "cook_time_min": 30,
+   "calories": 290,
+   "protein_g": 6,
+   "fat_g": 12,
+   "carbs_g": 42,
+   "ingredients": [
+    {
+     "name": "Oats",
+     "qty": 200,
+     "unit": "г"
+    },
+    {
+     "name": "Flour",
+     "qty": 100,
+     "unit": "г"
+    },
+    {
+     "name": "Butter",
+     "qty": 100,
+     "unit": "г"
+    },
+    {
+     "name": "Sugar",
+     "qty": 120,
+     "unit": "г"
+    },
+    {
+     "name": "Eggs",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Honey",
+     "qty": 1,
+     "unit": "ст.л"
+    }
+   ],
+   "steps": [
+    "Смешайте мягкое масло с сахаром, мёдом и яйцом.",
+    "Вмешайте хлопья и муку.",
+    "Шарики на пергамент, приплюснуть; 180°C 12–14 минут."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-144",
+   "book": "essential-150",
+   "name": {
+    "ru": "Брауни",
+    "en": "Brownies"
+   },
+   "servings": 6,
+   "cook_time_min": 40,
+   "calories": 420,
+   "protein_g": 7,
+   "fat_g": 24,
+   "carbs_g": 46,
+   "ingredients": [
+    {
+     "name": "Dark Chocolate",
+     "qty": 200,
+     "unit": "г"
+    },
+    {
+     "name": "Butter",
+     "qty": 120,
+     "unit": "г"
+    },
+    {
+     "name": "Sugar",
+     "qty": 150,
+     "unit": "г"
+    },
+    {
+     "name": "Eggs",
+     "qty": 3,
+     "unit": "шт"
+    },
+    {
+     "name": "Flour",
+     "qty": 90,
+     "unit": "г"
+    },
+    {
+     "name": "Cocoa",
+     "qty": 2,
+     "unit": "ст.л"
+    }
+   ],
+   "steps": [
+    "Растопите шоколад с маслом, вмешайте сахар и яйца.",
+    "Добавьте муку с какао, перемешайте до однородности.",
+    "Выпекайте при 170°C 20–22 минуты: середина должна остаться влажной."
+   ],
+   "tips": [
+    "Недопечь — это и есть рецепт идеального брауни."
+   ]
+  },
+  {
+   "id": "e150-145",
+   "book": "essential-150",
+   "name": {
+    "ru": "Творожная запеканка",
+    "en": "Cottage cheese bake"
+   },
+   "servings": 4,
+   "cook_time_min": 50,
+   "calories": 330,
+   "protein_g": 24,
+   "fat_g": 12,
+   "carbs_g": 32,
+   "ingredients": [
+    {
+     "name": "Cottage Cheese",
+     "qty": 500,
+     "unit": "г"
+    },
+    {
+     "name": "Eggs",
+     "qty": 3,
+     "unit": "шт"
+    },
+    {
+     "name": "Sugar",
+     "qty": 80,
+     "unit": "г"
+    },
+    {
+     "name": "Flour",
+     "qty": 3,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Sour Cream",
+     "qty": 2,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Vanilla",
+     "qty": 1,
+     "unit": "ч.л"
+    }
+   ],
+   "steps": [
+    "Смешайте творог, яйца, сахар, муку и ваниль.",
+    "Выложите в смазанную форму, смажьте сметаной.",
+    "Запекайте при 180°C 35–40 минут до румяности."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-146",
+   "book": "essential-150",
+   "name": {
+    "ru": "Печёные яблоки с мёдом",
+    "en": "Baked apples"
+   },
+   "servings": 4,
+   "cook_time_min": 30,
+   "calories": 180,
+   "protein_g": 1,
+   "fat_g": 2,
+   "carbs_g": 42,
+   "ingredients": [
+    {
+     "name": "Apple",
+     "qty": 4,
+     "unit": "шт"
+    },
+    {
+     "name": "Honey",
+     "qty": 3,
+     "unit": "ст.л"
+    },
+    {
+     "name": "Butter",
+     "qty": 20,
+     "unit": "г"
+    }
+   ],
+   "steps": [
+    "Вырежьте сердцевины, не прорезая дно.",
+    "В каждое яблоко — мёд и кусочек масла.",
+    "Запекайте при 180°C 20–25 минут."
+   ],
+   "tips": [
+    "Корица здесь просится сама."
+   ]
+  },
+  {
+   "id": "e150-147",
+   "book": "essential-150",
+   "name": {
+    "ru": "Панкейки американские",
+    "en": "American pancakes"
+   },
+   "servings": 3,
+   "cook_time_min": 25,
+   "calories": 380,
+   "protein_g": 11,
+   "fat_g": 12,
+   "carbs_g": 58,
+   "ingredients": [
+    {
+     "name": "Flour",
+     "qty": 200,
+     "unit": "г"
+    },
+    {
+     "name": "Milk",
+     "qty": 250,
+     "unit": "мл"
+    },
+    {
+     "name": "Eggs",
+     "qty": 1,
+     "unit": "шт"
+    },
+    {
+     "name": "Sugar",
+     "qty": 40,
+     "unit": "г"
+    },
+    {
+     "name": "Butter",
+     "qty": 30,
+     "unit": "г"
+    }
+   ],
+   "steps": [
+    "Смешайте сухое и жидкое отдельно, соедините не вымешивая до гладкости.",
+    "Жарьте на сухой сковороде до пузырьков, переверните.",
+    "Подавайте стопкой с мёдом и маслом."
+   ],
+   "tips": [
+    "Комочки в тесте — это нормально и правильно."
+   ]
+  },
+  {
+   "id": "e150-148",
+   "book": "essential-150",
+   "name": {
+    "ru": "Горячий шоколад",
+    "en": "Hot chocolate"
+   },
+   "servings": 2,
+   "cook_time_min": 10,
+   "calories": 330,
+   "protein_g": 8,
+   "fat_g": 18,
+   "carbs_g": 36,
+   "ingredients": [
+    {
+     "name": "Milk",
+     "qty": 400,
+     "unit": "мл"
+    },
+    {
+     "name": "Dark Chocolate",
+     "qty": 100,
+     "unit": "г"
+    },
+    {
+     "name": "Sugar",
+     "qty": 1,
+     "unit": "ст.л"
+    }
+   ],
+   "steps": [
+    "Нагрейте молоко, не доводя до кипения.",
+    "Добавьте шоколад и сахар, мешайте до растворения.",
+    "Прогрейте минуту до лёгкого загустения."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-149",
+   "book": "essential-150",
+   "name": {
+    "ru": "Чизкейк без выпечки",
+    "en": "No-bake cheesecake"
+   },
+   "servings": 6,
+   "cook_time_min": 30,
+   "calories": 420,
+   "protein_g": 10,
+   "fat_g": 28,
+   "carbs_g": 34,
+   "ingredients": [
+    {
+     "name": "Cottage Cheese",
+     "qty": 400,
+     "unit": "г"
+    },
+    {
+     "name": "Cream",
+     "qty": 200,
+     "unit": "мл"
+    },
+    {
+     "name": "Sugar",
+     "qty": 100,
+     "unit": "г"
+    },
+    {
+     "name": "Butter",
+     "qty": 80,
+     "unit": "г"
+    },
+    {
+     "name": "Oats",
+     "qty": 150,
+     "unit": "г"
+    },
+    {
+     "name": "Berries",
+     "qty": 150,
+     "unit": "г"
+    }
+   ],
+   "steps": [
+    "Основа: измельчённые хлопья с растопленным маслом, утрамбуйте в форму.",
+    "Взбейте творог со сливками и сахаром до крема, выложите на основу.",
+    "Охладите 3–4 часа, подавайте с ягодами."
+   ],
+   "tips": []
+  },
+  {
+   "id": "e150-150",
+   "book": "essential-150",
+   "name": {
+    "ru": "Шоколадные кексы",
+    "en": "Chocolate muffins"
+   },
+   "servings": 6,
+   "cook_time_min": 35,
+   "calories": 360,
+   "protein_g": 7,
+   "fat_g": 16,
+   "carbs_g": 48,
+   "ingredients": [
+    {
+     "name": "Flour",
+     "qty": 200,
+     "unit": "г"
+    },
+    {
+     "name": "Cocoa",
+     "qty": 40,
+     "unit": "г"
+    },
+    {
+     "name": "Sugar",
+     "qty": 150,
+     "unit": "г"
+    },
+    {
+     "name": "Eggs",
+     "qty": 2,
+     "unit": "шт"
+    },
+    {
+     "name": "Milk",
+     "qty": 150,
+     "unit": "мл"
+    },
+    {
+     "name": "Butter",
+     "qty": 90,
+     "unit": "г"
+    }
+   ],
+   "steps": [
+    "Смешайте сухие ингредиенты и жидкие отдельно, быстро соедините.",
+    "Разложите по формочкам на 2/3.",
+    "Выпекайте при 180°C 20–22 минуты."
+   ],
+   "tips": []
+  }
+ ]
+}
