@@ -1,5 +1,5 @@
 /* PantryChef service worker — offline app shell + books cache */
-var CACHE = 'pantrychef-v1';
+var CACHE = 'pantrychef-v2';
 /* Files to pre-cache. "./" covers the app itself (index.html on GitHub Pages). */
 var CORE = ['./', 'manifest.json', 'books.json', 'icon-192.png', 'icon-512.png'];
 
